@@ -6,11 +6,8 @@ draft = false
 
 On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook or lecture notes. **While none of these notes packages are a full representations of the course**, I found them incredibly helpful in preparation for assessments.
 
-Unfortunately, there's some courses, especially in Fall semester of my first year, where I didn't take notes or the notes were provided by the instructor. 
-
-Last updated: July 3rd, 2024
-
-TEST: link to [classnotes](/notes/firstyear/)
+Last updated: July 4th, 2024
+Coming next: MAT187 PCE Notes!
 
 ## First Year
 ### Fall Semester
@@ -19,6 +16,8 @@ TEST: link to [classnotes](/notes/firstyear/)
 [APS111: Engineering Strategies & Practice I]() (Coming soon!)
 
 [MAT224/MAT188: Linear Algebra]() - tentative, not confirmed
+
+Unfortunately, there's some courses for which I don't have notes available to share: MAT186 and MAT188 because they were provided by the instructor, CIV100 because they're too painful to even gaze upon, and APS100... because I refuse to consider it a "course."
 
 ### Winter Semester
 [APS106: Fundamentals of Computer Programming]() (Coming soon!)
@@ -35,7 +34,7 @@ ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110tb.pdf
 [APS105: Computer Fundamentals](/files/firstyear/aps105.pdf)
 
 ## Second Year
-Notes will be published starting September! But here's a sneak peak at the courses I'll be taking this year:
+Notes will be published starting September! But, here's a peak at the courses I'll be taking this year:
 ### Fall Semester
 1. ECE201: ECE Seminar
 2. ECE231: Introductory Electronics
