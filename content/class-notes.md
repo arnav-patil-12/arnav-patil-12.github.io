@@ -1,5 +1,5 @@
 +++
-title = 'My Class Notes'
+title = 'My Course Notes'
 date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
@@ -10,7 +10,7 @@ Unfortunately, there's some courses, especially in Fall semester of my first yea
 
 ## First Year
 ### Fall Semester
-[APS110: Engineering Chemistry and Materials Science](/files/aps110.pdf)
+[APS110: Engineering Chemistry and Materials Science](/files/firstyear/aps110.pdf)
 
 [APS111: Engineering Strategies & Practice I]()
 
@@ -19,16 +19,16 @@ Unfortunately, there's some courses, especially in Fall semester of my first yea
 ### Winter Semester
 [APS106: Fundamentals of Computer Programming]()
 
-[APS112: Engineering Strategies & Practice II](/files/aps112.pdf)
+[APS112: Engineering Strategies & Practice II](/files/firstyear/aps112.pdf)
 
-ECE110: Electrical Fundamentals [(Textbook Notes)](/files/ece110tb.pdf) & [(Lecture Notes)]()
+ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110tb.pdf) & [(Lecture Notes)]()
 
 [MAT187: Calculus 2]()
 
-[MIE100: Dynamics]()
+[MIE100: Dynamics](/files/firstyear/mie100.pdf)
 
 ### Summer Semester
-[APS105: Computer Fundamentals](/files/aps105.pdf)
+[APS105: Computer Fundamentals](/files/firstyear/aps105.pdf)
 
 ## Second Year
 Notes will be coming starting September!
