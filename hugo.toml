@@ -17,11 +17,6 @@ publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
 
 [params]
-
-    [params.author]
-        name = "Arnav Patil"
-        email = "arnav.patil@mail.utoronto.ca"
-
     homeSubtitle = "Computer Engineering Student at the University of Toronto"
     footerCopyright = "Arnav Patil"
  
@@ -41,9 +36,11 @@ expiryDate = ["expiryDate"]
     scrollToTop = true
     global_mathjax = false
     readTime = true
+    readTimeSeparator = "CHANGE ME READ TIME"
     # legacyLayout = false
     shareSocial = true
     
+
     [[params.socialLinks]]
         name = "linkedin"
         url = "https://www.linkedin.com/in/arnavpatil/"
