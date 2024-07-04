@@ -27,11 +27,6 @@ expiryDate = ["expiryDate"]
     
     themeColor = "#494f5c"
 
-    homeSubtitle = "Computer Engineering @ University of Toronto"
-    footerCopyright = "Jason Wang"
-    # bgImg = ""
-    # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
-
     justifyContent = false
 
     relatedPosts = true
