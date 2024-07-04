@@ -1,5 +1,5 @@
 +++
-title = 'Class Notes'
+title = 'Arnav's Class Notes'
 date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
@@ -19,9 +19,7 @@ Unfortunately, there's some courses, especially in Fall semester of my first yea
 
 [APS112: Engineering Strategies & Practice II](/files/aps112.pdf)
 
-[ECE110: Electrical Fundamentals (Textbook Notes)](/files/ece110tb.pdf)
-
-[ECE110: Electrical Fundamentals (Lecture Notes)]()
+ECE110: Electrical Fundamentals [(Textbook Notes)](/files/ece110tb.pdf) & [(Lecture Notes)]()
 
 [MAT187: Calculus 2]()
 
@@ -31,4 +29,4 @@ Unfortunately, there's some courses, especially in Fall semester of my first yea
 [APS105: Computer Fundamentals](/files/aps105.pdf)
 
 ## Second Year
-Notes will be coming soon!
+Notes will be coming starting September!
