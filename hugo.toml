@@ -3,9 +3,47 @@ languageCode = 'en-us'
 title = 'Arnav Patil'
 theme = 'hermit-v2'
 
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10
+
+copyright = "CHANGE ME"
+enableEmoji = true
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
 [params]
 	homeSubtitle = "Computer Engineering Student at the University of Toronto"
 	footerCopyright = "Arnav Patil"
+ 
+    dateform        = ""
+    dateformShort   = ""
+    dateformNum     = ""
+    dateformNumTime = ""
+    
+    themeColor = "#494f5c"
+
+    homeSubtitle = "Computer Engineering @ University of Toronto"
+    footerCopyright = "Jason Wang"
+    # bgImg = ""
+    # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+
+    justifyContent = false
+
+    relatedPosts = true
+    code_copy_button = true
+
+    homeSubtitlePrinter = true
+    scrollToTop = true
+    global_mathjax = false
+    readTime = true
+    readTimeSeparator = "CHANGE ME READ TIME"
+    # legacyLayout = false
+    shareSocial = true
     
 
 	[[params.socialLinks]]

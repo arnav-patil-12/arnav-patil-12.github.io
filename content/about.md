@@ -4,7 +4,7 @@ date = 2024-07-03T18:39:57-06:00
 draft = false
 +++
 
-##Hello!
+## Hello!
 
 My name is Arnav, and I'm a second-year Electrical and Computer Engineering (ECE) student at the University of Toronto. I'm interested in learning about and working in computer hardware and machine intelligence.
 

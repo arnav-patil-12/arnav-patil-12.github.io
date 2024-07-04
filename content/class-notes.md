@@ -15,17 +15,20 @@ Unfortunately, there's some courses, especially in Fall semester of my first yea
 [APS111: Engineering Strategies & Practice I]()
 
 ### Winter Semester
-[APS105: Computer Fundamentals](/files/aps105.pdf)
-
 [APS106: Fundamentals of Computer Programming]()
 
 [APS112: Engineering Strategies & Practice II](/files/aps112.pdf)
 
-[ECE110: Electrical Fundamentals](/files/ece110tb.pdf)
+[ECE110: Electrical Fundamentals (Textbook Notes)](/files/ece110tb.pdf)
+
+[ECE110: Electrical Fundamentals (Lecture Notes)]()
 
 [MAT187: Calculus 2]()
 
 [MIE100: Dynamics]()
 
+### Summer Semester
+[APS105: Computer Fundamentals](/files/aps105.pdf)
+
 ## Second Year
-### Fall Semester
+Notes will be coming soon!
