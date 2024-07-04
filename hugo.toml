@@ -17,8 +17,18 @@ publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
 
 [params]
-	homeSubtitle = "Computer Engineering Student at the University of Toronto"
-	footerCopyright = "Arnav Patil"
+
+    [params.author]
+        name = "Arnav Patil"
+        email = "arnav.patil@mail.utoronto.ca"
+
+    homeSubtitle = "Computer Engineering Student at the University of Toronto"
+    footerCopyright = "Arnav Patil"
+ 
+    dateform        = ""
+    dateformShort   = ""
+    dateformNum     = ""
+    dateformNumTime = ""
     
     themeColor = "#494f5c"
 
@@ -34,24 +44,20 @@ expiryDate = ["expiryDate"]
     # legacyLayout = false
     shareSocial = true
     
-    [params.author]
-        name = "Arnav Patil"
-        email = "arnav.patil@mail.utoronto.ca"
-
-	[[params.socialLinks]]
-		name = "linkedin"
-		url = "https://www.linkedin.com/in/arnavpatil/"
+    [[params.socialLinks]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/arnavpatil/"
 
 [menu]
     [[menu.main]]
-		name = "About Me"
-		url = "about/"
-		weight = 10
+        name = "About Me"
+        url = "about/"
+        weight = 10
 
     [[menu.main]]
         name = "My Resume"
         url = "resume.pdf"
-        weight = 40
+        weight = 30
 
     [[menu.main]]
         name = "Course Notes"
@@ -61,4 +67,4 @@ expiryDate = ["expiryDate"]
     [[menu.main]]
         name = "My Blog"
         url = "posts/"
-        weight = 30
+        weight = 40
