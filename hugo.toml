@@ -1,0 +1,34 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Arnav Patil'
+theme = 'hermit-v2'
+
+[params]
+	homeSubtitle = "Computer Engineering at the University of Toronto"
+	footerCopyright = "Arnav Patil"
+    
+
+	[[params.socialLinks]]
+		name = "linkedin"
+		url = "https://www.linkedin.com/in/arnavpatil/"
+    
+    [[paramss.socialLinks]]
+        name = "github"
+        url = "https://github.com/arnav-patil-12"
+
+
+[menu]
+    [[menu.main]]
+		name = "About Me"
+		url = "about/"
+		weight = 10
+
+    [[menu.main]]
+        name = "My Resume"
+        url = "resume.pdf"
+        weight = 30
+
+    [[menu.main]]
+        name = "Class Notes"
+        url = "class-notes"
+        weight = 20
