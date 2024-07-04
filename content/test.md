@@ -4,9 +4,9 @@ date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
 
-| A | B | A XOR B |
+| Fall Semester | B | A XOR B |
 |---|---|---------|
-| 0 | 0 |    0    |
+| [APS110: Engineering Chemistry and Materials Science](/files/firstyear/aps110.pdf) | 0 |    0    |
 | 0 | 1 |    1    |
 | 1 | 0 |    1    |
 | 1 | 1 |    0    |
