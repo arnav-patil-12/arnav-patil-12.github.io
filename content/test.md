@@ -4,12 +4,13 @@ date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
 
-| Fall Semester | B | A XOR B |
+| Fall Semester | Winter Semester | Summer Semester |
 |---|---|---------|
-| [APS110: Engineering Chemistry and Materials Science](/files/firstyear/aps110.pdf) | 0 |    0    |
-| 0 | 1 |    1    |
-| 1 | 0 |    1    |
-| 1 | 1 |    0    |
+| [APS110: Engineering Chemistry and Materials Science](/files/firstyear/aps110.pdf) | [APS106: Fundamentals of Computer Programming]() (Coming soon!) |    [APS105: Computer Fundamentals](/files/firstyear/aps105.pdf)    |
+| [APS111: Engineering Strategies & Practice I]() (Coming soon!) | [APS112: Engineering Strategies & Practice II](/files/firstyear/aps112.pdf) |        |
+| [MAT224/MAT188: Linear Algebra]() - tentative, not confirmed | ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110tb.pdf) & [(Lecture Notes)]() (Lecture notes coming soon!) |        |
+|  | [MAT187: Calculus 2]() (Coming soon!) |        |
+|  | [MIE100: Dynamics](/files/firstyear/mie100.pdf) |  |
 
 ## First Year
 ### Fall Semester
