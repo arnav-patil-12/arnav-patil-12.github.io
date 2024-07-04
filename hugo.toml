@@ -36,7 +36,7 @@ expiryDate = ["expiryDate"]
     scrollToTop = true
     global_mathjax = false
     readTime = true
-    readTimeSeparator = "CHANGE ME READ TIME"
+    readTimeSeparator = ""
     # legacyLayout = false
     shareSocial = true
     
@@ -54,7 +54,7 @@ expiryDate = ["expiryDate"]
     [[menu.main]]
         name = "My Resume"
         url = "resume.pdf"
-        weight = 30
+        weight = 40
 
     [[menu.main]]
         name = "Course Notes"
@@ -64,4 +64,4 @@ expiryDate = ["expiryDate"]
     [[menu.main]]
         name = "My Blog"
         url = "posts/"
-        weight = 40
+        weight = 30
