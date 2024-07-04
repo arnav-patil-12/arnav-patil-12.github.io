@@ -10,6 +10,8 @@ Unfortunately, there's some courses, especially in Fall semester of my first yea
 
 Last updated: July 3rd, 2024
 
+TEST: link to [classnotes](/notes/firstyear/)
+
 ## First Year
 ### Fall Semester
 [APS110: Engineering Chemistry and Materials Science](/files/firstyear/aps110.pdf)

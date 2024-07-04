@@ -60,8 +60,3 @@ expiryDate = ["expiryDate"]
         name = "Course Notes"
         url = "https://arnav-patil-12.github.io/class-notes/"
         weight = 20
-        
-    [[menu.main]]
-        name = "Test Page"
-        url = "test/"
-        weight = 40

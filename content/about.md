@@ -13,4 +13,5 @@ Outside of classes, I'm involved with the University of Toronto Engineering Soci
 Feel free to reach out, I'm always looking to connect!
 
 LinkedIn: [https://www.linkedin.com/in/arnavpatil/](https://www.linkedin.com/in/arnavpatil/)
+
 Github: [https://github.com/arnav-patil-12](https://github.com/arnav-patil-12)
