@@ -4,7 +4,7 @@ date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
 
-On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook or lecture notes. While none of these notes packages are full representations of the course, I found them incredibly helpful in preparation for assessments.
+On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook or lecture notes. **While none of these notes packages are full representations of the course**, I found them incredibly helpful in preparation for assessments.
 
 Unfortunately, there's some courses, especially in Fall semester of my first year, where I didn't take notes or the notes were provided by the instructor. 
 
@@ -13,6 +13,8 @@ Unfortunately, there's some courses, especially in Fall semester of my first yea
 [APS110: Engineering Chemistry and Materials Science](/files/aps110.pdf)
 
 [APS111: Engineering Strategies & Practice I]()
+
+[MAT224/MAT188: Linear Algebra II]() - tentative, not confirmed
 
 ### Winter Semester
 [APS106: Fundamentals of Computer Programming]()
