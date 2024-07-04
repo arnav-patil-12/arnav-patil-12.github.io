@@ -1,5 +1,5 @@
 +++
-title = 'Arnav's Class Notes'
+title = 'My Class Notes'
 date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
