@@ -44,11 +44,6 @@ expiryDate = ["expiryDate"]
 	[[params.socialLinks]]
 		name = "linkedin"
 		url = "https://www.linkedin.com/in/arnavpatil/"
-    
-    [[paramss.socialLinks]]
-        name = "github"
-        url = "https://github.com/arnav-patil-12"
-
 
 [menu]
     [[menu.main]]
@@ -59,9 +54,14 @@ expiryDate = ["expiryDate"]
     [[menu.main]]
         name = "My Resume"
         url = "resume.pdf"
-        weight = 30
+        weight = 40
 
     [[menu.main]]
         name = "Course Notes"
         url = "https://arnav-patil-12.github.io/class-notes/"
         weight = 20
+        
+    [[menu.main]]
+        name = "My Blog"
+        url = "blog/"
+        weight = 30
