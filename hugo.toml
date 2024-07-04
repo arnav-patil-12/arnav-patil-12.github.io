@@ -30,5 +30,5 @@ theme = 'hermit-v2'
 
     [[menu.main]]
         name = "Class Notes"
-        url = "class-notes"
+        url = "https://arnav-patil-12.github.io/class-notes/"
         weight = 20
