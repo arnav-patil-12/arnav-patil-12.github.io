@@ -1,5 +1,5 @@
 +++
-title = 'My Course Notes'
+title = 'Course Notes'
 date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
@@ -7,6 +7,7 @@ draft = false
 On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook or lecture notes. **While none of these notes packages are a full representations of the course**, I found them incredibly helpful in preparation for assessments.
 
 Last updated: July 4th, 2024 -- APS106 textbook notes added!
+
 Coming next: MAT187 PCE Notes!
 
 ## First Year
@@ -17,7 +18,7 @@ Coming next: MAT187 PCE Notes!
 
 [MAT224/MAT188: Linear Algebra]() - tentative, not confirmed
 
-Unfortunately, there's some courses for which I don't have notes available to share: MAT186 and MAT188 because they were provided by the instructor, CIV100 because they're too painful to even gaze upon, and APS100... because I refuse to consider it a "course."
+Unfortunately, there's some courses for which I don't have notes available to share: MAT186, MAT188, CIV100, and APS100.
 
 ### Winter Semester
 [APS106: Fundamentals of Computer Programming](/files/firstyear/aps106.pdf)

@@ -52,7 +52,7 @@ expiryDate = ["expiryDate"]
         weight = 10
 
     [[menu.main]]
-        name = "My Resume"
+        name = "Resume"
         url = "resume.pdf"
         weight = 40
 
@@ -62,6 +62,6 @@ expiryDate = ["expiryDate"]
         weight = 20
         
     [[menu.main]]
-        name = "My Blog"
+        name = "Blog"
         url = "posts/"
         weight = 30
