@@ -6,32 +6,28 @@ draft = false
 
 On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook or lecture notes. **While none of these notes packages are a full representations of the course**, I found them incredibly helpful in preparation for assessments.
 
-Last updated: July 4th, 2024 -- APS106 textbook notes added!
-
-Coming next: MAT187 PCE Notes!
-
 ## First Year
-### Fall Semester
+### Fall
 [APS110: Engineering Chemistry and Materials Science](/files/firstyear/aps110.pdf)
 
-[APS111: Engineering Strategies & Practice I]() (Coming soon!)
+[APS111: Engineering Strategies & Practice I]()
 
 [MAT224/MAT188: Linear Algebra]() - tentative, not confirmed
 
 Unfortunately, there's some courses for which I don't have notes available to share: MAT186, MAT188, CIV100, and APS100.
 
-### Winter Semester
+### Winter
 [APS106: Fundamentals of Computer Programming](/files/firstyear/aps106.pdf)
 
 [APS112: Engineering Strategies & Practice II](/files/firstyear/aps112.pdf)
 
-ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110tb.pdf) & [(Lecture Notes)]() (Lecture notes coming soon!)
+ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110tb.pdf) & [(Lecture Notes)]()
 
 [MAT187: Calculus 2]() (Coming soon!)
 
 [MIE100: Dynamics](/files/firstyear/mie100.pdf)
 
-### Summer Semester
+### Summer
 [APS105: Computer Fundamentals](/files/firstyear/aps105.pdf)
 
 ## Second Year
