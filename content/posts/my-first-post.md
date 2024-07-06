@@ -8,4 +8,4 @@ tags:
   - untagged
 ---
 
-Test post.
+Test post. Just making sure my blog actually works!
