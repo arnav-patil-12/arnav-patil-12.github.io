@@ -10,27 +10,27 @@ Last Update: APS105 -- code block extra line removed.
 
 ## First Year
 ### Fall
-APS110: Engineering Chemistry and Materials Science [(Textbook Notes)](/files/firstyear/aps110.pdf)
+[APS110: Engineering Chemistry and Materials Science](/files/firstyear/aps110.pdf)
 
-APS111: Engineering Strategies & Practice I [(Lecture Notes + Textbook Excerpts]() (Coming next!)
+[APS111: Engineering Strategies & Practice I]() (Coming next!)
 
-MAT224/MAT188: Linear Algebra [(Textbook Notes)]() - tentative, not confirmed
+[MAT224/MAT188: Linear Algebra]() - tentative, not confirmed
 
 Unfortunately, I'm unable to share my CIV100 and MAT186 course notes :(
 
 ### Winter
-APS106: Fundamentals of Computer Programming [(Textbook Notes)](/files/firstyear/aps106.pdf)
+[APS106: Fundamentals of Computer Programming](/files/firstyear/aps106.pdf)
 
-APS112: Engineering Strategies & Practice II [(Textbook Notes)](/files/firstyear/aps112.pdf)
+[APS112: Engineering Strategies & Practice II](/files/firstyear/aps112.pdf)
 
 ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110text.pdf) and [(Lecture Notes)]()
 
-MAT187: Calculus II [(Course Readings Notes)](/files/firstyear/mat187.pdf)
+[MAT187: Calculus 2](/files/firstyear/mat187.pdf)
 
-MIE100: Dynamics [(Textbook Notes)](/files/firstyear/mie100.pdf)
+[MIE100: Dynamics](/files/firstyear/mie100.pdf)
 
 ### Summer
-APS105: Computer Fundamentals [(Textbook Notes + Lecture Excerpts)](/files/firstyear/aps105.pdf)
+[APS105: Computer Fundamentals](/files/firstyear/aps105.pdf)
 
 ## Second Year
 Notes will be published starting September!
