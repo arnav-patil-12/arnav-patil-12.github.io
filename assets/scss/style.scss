@@ -40,11 +40,8 @@ html {
   scroll-behavior: smooth;
 }
 
-button {
-  color: #ffffff;
-}
-
 body,
+button,
 input,
 select,
 textarea {
@@ -502,6 +499,7 @@ p.img-404 {
     display: block;
     text-align: center;
     margin-top: .5em;
+    color: #ffffff;
   }
 }
 
@@ -1028,8 +1026,8 @@ a.footnote-ref {
     border-right: .5em solid $typewriter; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 0 auto 1.5em auto; /* Gives that scrolling effect as the typing happens */
-    // letter-spacing: .100em; /* Adjust as needed */
-    animation: typing 5s steps({{ strings.RuneCount .Site.Params.homeSubtitle }}, end),blink-caret .75s linear 5.1s infinite;
+    // letter-spacing: .80em; /* Adjust as needed */
+    animation: typing 3s steps({{ strings.RuneCount .Site.Params.homeSubtitle }}, end),blink-caret .75s linear 5.1s infinite;
   }
 
   /* The typing effect */
