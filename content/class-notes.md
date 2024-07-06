@@ -4,9 +4,7 @@ date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
 
-On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook/lecture notes. While **none of these notes packages are a full representations of the course**, I found them incredibly helpful over the course of the semester, or in preparation for assessments.
-
-Starting second year, I'll also endeavour to be consistently uploading my notes to the UofT Accesbility Services' Notetaking program, something I wasn't able to do in Winter 2024.
+On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook/lecture notes. While **none of these notes are a full representations of the course**, I found them incredibly helpful over the course of the semester, or in preparation for assessments.
 
 ## First Year
 ### Fall
