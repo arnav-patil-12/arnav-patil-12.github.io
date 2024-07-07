@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook/lecture notes. While **none of these notes are a full representation of the course**, I found them incredibly helpful over the course of the semester, or in preparation for assessments.
 
-Last Update: APS105 -- code block extra line removed.
+Last Update: APS111 -- lecture notes w/ text excerpts added.
 
 ## First Year
 ### Fall
