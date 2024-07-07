@@ -12,9 +12,9 @@ Last Update: APS105 -- code block extra line removed.
 ### Fall
 [APS110: Engineering Chemistry and Materials Science](/files/firstyear/aps110.pdf)
 
-[APS111: Engineering Strategies & Practice I]() (Coming next!)
+[APS111: Engineering Strategies & Practice I](/files/firstyear/aps111.pdf)
 
-[MAT224/MAT188: Linear Algebra]() - tentative, not confirmed
+[MAT224/MAT188: Linear Algebra]() -- tentative, not confirmed
 
 Unfortunately, I'm unable to share my CIV100 and MAT186 course notes :(
 
@@ -23,7 +23,7 @@ Unfortunately, I'm unable to share my CIV100 and MAT186 course notes :(
 
 [APS112: Engineering Strategies & Practice II](/files/firstyear/aps112.pdf)
 
-ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110text.pdf) and [(Lecture Notes)]()
+ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110text.pdf) and [(Lecture Notes)]() (Lecture Notes coming next!)
 
 [MAT187: Calculus 2](/files/firstyear/mat187.pdf)
 
