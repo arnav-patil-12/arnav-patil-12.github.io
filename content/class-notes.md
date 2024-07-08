@@ -16,6 +16,8 @@ Last Update: APS111 -- lecture notes w/ text excerpts added.
 
 [MAT224/MAT188: Linear Algebra]() -- tentative, not confirmed
 
+*BONUS*: I found my [EHS101](/files/misc/ehs101.pdf) notes, which I got a GPT to turn into a LaTeX PDF.
+
 Unfortunately, I'm unable to share my CIV100 and MAT186 course notes :(
 
 ### Winter
@@ -25,7 +27,7 @@ Unfortunately, I'm unable to share my CIV100 and MAT186 course notes :(
 
 ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110text.pdf) and [(Lecture Notes)]() (Lecture Notes coming next!)
 
-[MAT187: Calculus 2](/files/firstyear/mat187.pdf)
+[MAT187: Calculus II](/files/firstyear/mat187.pdf)
 
 [MIE100: Dynamics](/files/firstyear/mie100.pdf)
 
