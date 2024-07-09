@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of my course notes. These course notes are mainly final exam review or transcribed textbook/lecture notes. While **none of these notes are a full representation of the course**, I found them incredibly helpful over the course of the semester, or in preparation for assessments.
 
-Last Update: ECE110 lecture notes uploaded and cross-linked to textbook notes.
+Last Update: ECE110 lec notes uploaded & cross-linked to text notes.
 
 ## First Year
 ### Fall
@@ -25,7 +25,7 @@ Unfortunately, I'm unable to share my CIV100 and MAT186 course notes :(
 
 [APS112: Engineering Strategies & Practice II](/files/firstyear/aps112.pdf)
 
-ECE110: Electrical Fundamentals [(Textbook)](/files/firstyear/ece110text.pdf) and [(Lecture)](/files/firstyear/ece110lec.pdf) (Lecture Notes coming next!)
+ECE110: Electrical Fundamentals [(Textbook)](/files/firstyear/ece110text.pdf) and [(Lecture)](/files/firstyear/ece110lec.pdf)
 
 [MAT187: Calculus II](/files/firstyear/mat187.pdf)
 
