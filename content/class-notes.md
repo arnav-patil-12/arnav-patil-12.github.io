@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of course notes. These notes are mainly final exam review or transcribed textbook/lecture notes. I hope you find them as helpful or insightful as I did while preparing for assessments!
 
-Last Update: MAT187 -- minor nomenclature corrections.
+Last Update: APS112 -- LaTeX updates (figured out how apostrophe's work).
 
 ## First Year
 ### Fall

@@ -8,4 +8,4 @@ tags:
   - untagged
 ---
 
-<ins>Test post</ins>. Just making sure my blog actually works!
+Test post. Just making sure my blog actually works!
