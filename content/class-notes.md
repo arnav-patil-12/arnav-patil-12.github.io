@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of course notes. These notes are mainly final exam review or transcribed textbook/lecture notes. I hope you find them as helpful or insightful as I did while preparing for assessments!
 
-Last Update: ECE110 lec notes uploaded & cross-linked to text notes.
+Last Update: MAT187 -- minor nomenclature corrections.
 
 ## First Year
 ### Fall
