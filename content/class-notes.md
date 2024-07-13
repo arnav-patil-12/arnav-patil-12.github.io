@@ -4,9 +4,9 @@ date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
 
-On this page, I've curated a collection of course notes. These notes are mainly final exam review or transcribed textbook/lecture notes. I hope you find them as helpful or insightful as I did while preparing for assessments!
+On this page, I've curated a collection of course notes. These notes are mainly final exam review or transcribed textbook/lecture notes. I hope you find them as helpful or insightful as I did!
 
-Last Update: APS112 -- LaTeX updates (figured out how apostrophe's work).
+Last Update: MAT188 -- six of twelve chapters finished.
 
 ## First Year
 ### Fall
@@ -14,9 +14,9 @@ Last Update: APS112 -- LaTeX updates (figured out how apostrophe's work).
 
 [APS111: Engineering Strategies & Practice I](/files/firstyear/aps111.pdf)
 
-*BONUS*: [EHS101](/files/misc/ehs101.pdf), got a GPT to turn handwritten notes into LaTeX.
+Linear Algebra -- [MAT188](/files/firstyear/mat188.pdf) (Engineering) and [MAT224](/files/firstyear/mat224.pdf) (ArtSci)
 
-Unfortunately, I'm unable to share my notes for certain courses :(
+Unfortunately, I'm unable to share my notes for some courses :(
 
 ### Winter
 [APS105: Computer Fundamentals](/files/firstyear/aps105.pdf) (taken in Summer 2024)
@@ -30,6 +30,3 @@ ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110text.p
 [MAT187: Calculus II](/files/firstyear/mat187.pdf)
 
 [MIE100: Dynamics](/files/firstyear/mie100.pdf)
-
-## Second Year
-Notes will be published starting September!
