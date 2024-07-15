@@ -500,7 +500,7 @@ p.img-404 {
     display: block;
     text-align: center;
     margin-top: .5em;
-    color: #ffffff;
+    color: #000000;
   }
 }
 
@@ -509,7 +509,7 @@ p.img-404 {
   font-size: .6em;
   line-height: normal;
   @include dimmed;
-  color: #ffffff;
+  color: #000000;
 
   p {
     margin-top: 0;
