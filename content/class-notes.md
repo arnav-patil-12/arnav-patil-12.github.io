@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of course notes. These notes are mainly final exam review or transcribed textbook/lecture notes. I hope you find them as helpful or insightful as I did!
 
-Last Update: ALL -- link goes to course webpage, which contains notes!
+Last Update: ALL -- link goes to course webpage, which has a link to notes!
 
 ## First Year
 ### Fall
@@ -30,3 +30,6 @@ Unfortunately, I'm unable to share my notes for some courses :(
 [MAT187: Calculus II](/notes/firstyear/mat187/)
 
 [MIE100: Dynamics](/notes/firstyear/mie100/)
+
+## Second Year
+Notes will be uploaded periodically starting September!
