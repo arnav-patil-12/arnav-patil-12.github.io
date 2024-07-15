@@ -12,7 +12,7 @@ Last Update: MAT188 -- nine of twelve chapters finished.
 ### Fall
 [APS110: Engineering Chemistry and Materials Science](https://arnav-patil-12.github.io/notes/firstyear/aps110/)
 
-[APS111: Engineering Strategies & Practice I](/files/firstyear/aps111.pdf)
+[APS111: Engineering Strategies & Practice I](/notes/firstyear/aps111/)
 
 Linear Algebra -- [MAT188](/files/firstyear/mat188.pdf) (Engineering) and [MAT224](/files/firstyear/mat224.pdf) (ArtSci)
 
