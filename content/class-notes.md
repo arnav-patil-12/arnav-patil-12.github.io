@@ -10,23 +10,23 @@ Last Update: MAT188 -- nine of twelve chapters finished.
 
 ## First Year
 ### Fall
-[APS110: Engineering Chemistry and Materials Science](https://arnav-patil-12.github.io/notes/firstyear/aps110/)
+[APS110: Engineering Chemistry and Materials Science](/notes/firstyear/aps110/)
 
 [APS111: Engineering Strategies & Practice I](/notes/firstyear/aps111/)
 
-Linear Algebra -- [MAT188](/files/firstyear/mat188.pdf) (Engineering) and [MAT224](/files/firstyear/mat224.pdf) (ArtSci)
+Linear Algebra -- [MAT188](/notes/firstyear/mat188/) (Engineering) and [MAT224](/notes/firstyear/mat224/) (ArtSci)
 
 Unfortunately, I'm unable to share my notes for some courses :(
 
 ### Winter
-[APS105: Computer Fundamentals](/files/firstyear/aps105.pdf) (taken in Summer 2024)
+[APS105: Computer Fundamentals](/notes/firstyear/aps105/) (taken in Summer 2024)
 
-[APS106: Fundamentals of Computer Programming](/files/firstyear/aps106.pdf)
+[APS106: Fundamentals of Computer Programming](/notes/firstyear/aps106/)
 
-[APS112: Engineering Strategies & Practice II](/files/firstyear/aps112.pdf)
+[APS112: Engineering Strategies & Practice II](/notes/firstyear/aps112/)
 
-ECE110: Electrical Fundamentals [(Textbook Notes)](/files/firstyear/ece110text.pdf) and [(Lecture Notes)](/files/firstyear/ece110lec.pdf)
+[ECE110: Electrical Fundamentals](/notes/firstyear/ece110/)
 
-[MAT187: Calculus II](/files/firstyear/mat187.pdf)
+[MAT187: Calculus II](/notes/firstyear/mat187/)
 
-[MIE100: Dynamics](/files/firstyear/mie100.pdf)
+[MIE100: Dynamics](/notes/firstyear/mie100/)
