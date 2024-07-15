@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of course notes. These notes are mainly final exam review or transcribed textbook/lecture notes. I hope you find them as helpful or insightful as I did!
 
-Last Update: MAT188 -- six of twelve chapters finished.
+Last Update: MAT188 -- nine of twelve chapters finished.
 
 ## First Year
 ### Fall
