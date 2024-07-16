@@ -16,8 +16,6 @@ Last Update: ALL -- link goes to course webpage, which has a link to notes!
 
 Linear Algebra -- [MAT188](/notes/firstyear/mat188/) (Engineering) and [MAT224](/notes/firstyear/mat224/) (ArtSci)
 
-Unfortunately, I'm unable to share my notes for some courses :(
-
 ### Winter
 [APS105: Computer Fundamentals](/notes/firstyear/aps105/) (taken in Summer 2024)
 
