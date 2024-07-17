@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Arnav Patil</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Arnav Patil</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>CHANGE ME</copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 16:48:10 -0600</lastBuildDate>
+		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test Post</title>
+			<link>http://localhost:1313/posts/my-first-post/</link>
+			<pubDate>Thu, 04 Jul 2024 16:48:10 -0600</pubDate>
+			
+			<guid>http://localhost:1313/posts/my-first-post/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>Test post. Just making sure my blog actually works!</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Arnav Patil</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Notes on Arnav Patil</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>CHANGE ME</copyright>
+    <lastBuildDate>Wed, 03 Jul 2024 18:36:41 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APS105</title>
+      <link>http://localhost:1313/notes/firstyear/aps105/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/aps105/</guid>
+      <description>Computer Fundamentals Notes Textbook Notes + Lecture Excerpts&#xA;Course Description APS105: Computer Fundamentals is a first-year programming course taken by undergraduate students at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. Though any first-year may opt to take this course, it is a prerequisite for second-year studies in Electrical and Computer Engineering. It is also taken by most TrackOne (general engineering) students. This course teaches students to code in the C programming language; the other disciplines, and those who opt not to learn C, take APS106: Fundamentals of Computer Programming (which teaches Python).</description>
+    </item>
+    <item>
+      <title>APS106</title>
+      <link>http://localhost:1313/notes/firstyear/aps106/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/aps106/</guid>
+      <description>Fundamentals of Computer Programming Notes Textbook Notes&#xA;Course Description APS106: Fundamentals of Computer Programming is a course taken by most first-year undergraduates at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. The disciplines that take this course are: Mech, Indy, Chem, Civ, Min, and MSE. According to the Academic Calendar, this course teaches basic concepts in software systems and algorithms, and utilizes the Python language.&#xA;I took this course in Winter 2024, and ended the course with an A+.</description>
+    </item>
+    <item>
+      <title>APS110</title>
+      <link>http://localhost:1313/notes/firstyear/aps110/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/aps110/</guid>
+      <description>Engineering Chemistry and Materials Science Notes Textbook Notes + Lecture Excerpts&#xA;Course Description APS110: Engineering Chemistry and Materials Science is a course at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. According to the Academic Calendar, the course is built on the principle of the structure-property relationship. This is one of the five courses taken by ALL undergraduates in the Fall semester of their first year.&#xA;I took this course in Fall 2023 under Professor Scott Ramsay.</description>
+    </item>
+    <item>
+      <title>APS111</title>
+      <link>http://localhost:1313/notes/firstyear/aps111/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/aps111/</guid>
+      <description>Engineering Strategies &amp;amp; Practice I Notes Lecture Notes + Textbook Excerpts&#xA;Course Description Engineering Strategies &amp;amp; Practice (ESP) is a two-course program within the first-year curriculum at University of Toronto&amp;rsquo;s Faculty of Applied Science &amp;amp; Engineering. These are introductory design courses, meaning that students work in teams on projects brought forward by real-life clients. In the fall semester, all groups work on one of a few projects brought forward by the same client (Hart House in my year, and Sidney Smith Commons the year prior).</description>
+    </item>
+    <item>
+      <title>APS112</title>
+      <link>http://localhost:1313/notes/firstyear/aps112/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/aps112/</guid>
+      <description>Engineering Strategies &amp;amp; Practice II Notes Lecture Notes + Textbook Excerpts&#xA;Course Description Engineering Strategies &amp;amp; Practice (ESP) is a two-course program within the first-year curriculum at University of Toronto&amp;rsquo;s Faculty of Applied Science &amp;amp; Engineering. These are introductory design courses, meaning that students work in teams on projects brought forward by real-life clients. In the fall semester, all groups work on one of a few projects brought forward by the same client (Hart House in my year, and Sidney Smith Commons the year prior).</description>
+    </item>
+    <item>
+      <title>ECE110</title>
+      <link>http://localhost:1313/notes/firstyear/ece110/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/ece110/</guid>
+      <description>Electrical Fundamentals Notes Lecture Notes and Textbook Notes&#xA;Course Description ECE110: Electrical Fundamentals is a course taken by some first-year undergraduate students at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. This course is taken by students in ECE, Mech, Indy, MSE, and TrackOne. This course provides a review of topics in electricity and magnetism that students may have learned in high school, and introduces topics such as: basic circuit analysis, RC and RL circuits, transient response, and AC steady-state analysis.</description>
+    </item>
+    <item>
+      <title>MAT187</title>
+      <link>http://localhost:1313/notes/firstyear/mat187/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/mat187/</guid>
+      <description>Calculus II Notes Readings Notes&#xA;Course Description MAT187: Calculus II is a course taken by all first-year undergraduates at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. This course is a standard second course in calculus, with a focus on engineering contexts.&#xA;I took this course in Winter 2024 under Professors Shai Cohen and Camelia Karimianpour. This was, in my opinion, the hardest course I took all semester, and I often found myself struggling and feeling left behind.</description>
+    </item>
+    <item>
+      <title>MAT188</title>
+      <link>http://localhost:1313/notes/firstyear/mat188/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/mat188/</guid>
+      <description>Linear Algebra (Engineering) Notes Readings Notes&#xA;Course Description Coming soon!</description>
+    </item>
+    <item>
+      <title>MAT188</title>
+      <link>http://localhost:1313/notes/firstyear/mie100/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/firstyear/mie100/</guid>
+      <description>Linear Algebra (Engineering) Notes Textbook Notes&#xA;Course Description MIE100: Dynamics is a course taken by some first-year undergraduates at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. The disciplines that take this course are: Mech, Indy, ECE, and TrackOne. The course is meant to be a continuation of the physics learned in CIV100, with the focus now on moving bodies (dynamics) rather than stationary ones (statics).&#xA;I took this course under Professor Fatemeh Jazinizadeh in Winter 2024, and ended the class with an A.</description>
+    </item>
+    <item>
+      <title>MAT188</title>
+      <link>http://localhost:1313/notes/secondyear/ece231/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/secondyear/ece231/</guid>
+      <description>Linear Algebra (Engineering) Notes Readings Notes&#xA;Course Description Coming soon!</description>
+    </item>
+  </channel>
+</rss>

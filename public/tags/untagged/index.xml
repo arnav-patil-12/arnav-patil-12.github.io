@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on Arnav Patil</title>
+    <link>http://localhost:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on Arnav Patil</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>CHANGE ME</copyright>
+    <lastBuildDate>Thu, 04 Jul 2024 16:48:10 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 04 Jul 2024 16:48:10 -0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Test post. Just making sure my blog actually works!</description>
+    </item>
+  </channel>
+</rss>
