@@ -32,4 +32,4 @@ Linear Algebra -- [MAT188](/notes/firstyear/mat188/) (Engineering) and [MAT224](
 ## Second Year
 Notes will be uploaded periodically starting September!
 
-Test: [ECE244](/notes/secondyear/ece244)
+Test: [ECE244: Programming Fundamentals](/notes/secondyear/ece244)

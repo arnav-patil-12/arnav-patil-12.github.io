@@ -46,8 +46,8 @@ expiryDate = ["expiryDate"]
         url = "https://www.linkedin.com/in/arnavpatil/"
     
     [[params.socialLinks]]
-        name = "instagram"
-        url = "https://www.linkedin.com/in/arnavpatil/"
+        name = "github"
+        url = "https://github.com/arnav-patil-12"
 
 [menu]
     [[menu.main]]
