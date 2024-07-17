@@ -42,7 +42,7 @@ Lecture 02 Introduction to C&#43;&#43; Computer broken into software and hardwar
 Software There are applications such as chrome, safari, and others, including our C&#43;&#43; program. These applications work within the operating system, which is the software that interacts with the hardware and prevents damage being done to the hardware.
 Hardware Mainly, there is the central processing unit (CPU), which has two components, the arithmetic logical unit (ALU) and the control unit (CU).">
 <title>ECE244 YouTube Lecture Notes</title>
-                <link rel="stylesheet dns-prefetch preconnect preload prefetch" as="style" href="http://localhost:1313/css/style.min.b632ff74dda28d04bc6a2089684a2f7b9c29c691b5dd37a04e23b8091d97db26.css" integrity="sha256-tjL/dN2ijQS8aiCJaEove5wpxpG13TegTiO4CR2X2yY=" crossorigin="anonymous">
+                <link rel="stylesheet dns-prefetch preconnect preload prefetch" as="style" href="http://localhost:1313/css/style.min.162d4ceed536219d9abbd65b56940d85727f06ce2b61c42bdb7bb97feddea5c2.css" integrity="sha256-Fi1M7tU2IZ2au9ZbVpQNhXJ/Bs4rYcQr23u5f+3epcI=" crossorigin="anonymous">
 	
                           <script type="text/javascript">
                             MathJax = {
@@ -284,7 +284,7 @@ Hardware Mainly, there is the central processing unit (CPU), which has two compo
 </span></span></code></pre></div><h2 id="unexpected-input-raising-cinfail--or-infilefail">Unexpected Input Raising <code>cin.fail()</code>  or <code>inFile.fail()</code><a href="#unexpected-input-raising-cinfail--or-infilefail" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
 <ol>
 <li><code>cin.clear()</code> clears the failure condition by setting fail flag or end-of-file flag to false</li>
-<li><code>cin.ignore(int n, char ch);</code> discards $n$ characters, or discards up to and including character <code>ch</code> , whichever <strong>comes first.</strong></li>
+<li><code>cin.ignore(int n, char ch);</code> discards \(n\) characters, or discards up to and including character <code>ch</code> , whichever <strong>comes first.</strong></li>
 </ol>
 <h3 id="code-example-from-class">Code Example From Class<a href="#code-example-from-class" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="line"><span class="cl"><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span> <span class="p">{</span>
