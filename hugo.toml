@@ -34,7 +34,7 @@ expiryDate = ["expiryDate"]
 
     homeSubtitlePrinter = true
     scrollToTop = true
-    global_mathjax = false
+    global_mathjax = true
     readTime = true
     readTimeSeparator = ""
     # legacyLayout = false
@@ -58,7 +58,7 @@ expiryDate = ["expiryDate"]
 
     [[menu.main]]
         name = "Course Notes"
-        url = "https://arnav-patil-12.github.io/class-notes/"
+        url = "class-notes/"
         weight = 20
         
     [[menu.main]]
