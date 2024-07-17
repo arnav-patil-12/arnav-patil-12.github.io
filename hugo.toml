@@ -44,6 +44,10 @@ expiryDate = ["expiryDate"]
     [[params.socialLinks]]
         name = "linkedin"
         url = "https://www.linkedin.com/in/arnavpatil/"
+    
+    [[params.socialLinks]]
+        name = "instagram"
+        url = "https://www.linkedin.com/in/arnavpatil/"
 
 [menu]
     [[menu.main]]
