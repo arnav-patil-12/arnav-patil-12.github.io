@@ -39,7 +39,6 @@ expiryDate = ["expiryDate"]
     readTimeSeparator = ""
     # legacyLayout = false
     shareSocial = true
-    
 
     [[params.socialLinks]]
         name = "linkedin"
@@ -53,19 +52,20 @@ expiryDate = ["expiryDate"]
     [[menu.main]]
         name = "About Me"
         url = "about/"
-        weight = 10
+        weight = 1
+
+    [[menu.main]]
+        name = "Course Notes"
+        url = "notes/"
+        weight = 2
+
+    [[menu.main]]
+        name = "Blog"
+        url = "posts/"
+        weight = 3
 
     [[menu.main]]
         name = "Resume"
         url = "resume.pdf"
-        weight = 40
+        weight = 4
 
-    [[menu.main]]
-        name = "Course Notes"
-        url = "class-notes/"
-        weight = 20
-        
-    [[menu.main]]
-        name = "Blog"
-        url = "posts/"
-        weight = 30
