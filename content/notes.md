@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of course notes. These notes are mainly final exam review or transcribed textbook/lecture notes. I hope you find them as helpful or insightful as I did!
 
-Last Update: MAT188 -- all 12 sections finished.
+Last Update: MAT224 -- up to Section 1.2, Subspaces.
 
 ## First Year
 ### Fall
@@ -14,7 +14,9 @@ Last Update: MAT188 -- all 12 sections finished.
 
 [APS111: Engineering Strategies & Practice I](/notes/firstyear/aps111/)
 
-[MAT188: Linear Algebra](/notes/firstyear/mat188)
+[MAT188: Linear Algebra](/notes/firstyear/mat188) (Engineering)
+
+[MAT224: Linear Algebra II](/notes/firstyear/mat224) (Arts & Science)
 
 ### Winter
 [APS105: Computer Fundamentals](/notes/firstyear/aps105/) (taken in Summer 2024)
@@ -30,4 +32,4 @@ Last Update: MAT188 -- all 12 sections finished.
 [MIE100: Dynamics](/notes/firstyear/mie100/)
 
 ## Second Year
-Notes will be uploaded starting September!
+Notes will be uploaded starting September.
