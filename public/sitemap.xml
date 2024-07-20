@@ -41,16 +41,13 @@
     <loc>http://localhost:1313/notes/firstyear/ece110/</loc>
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/secondyear/ece244/</loc>
+    <loc>http://localhost:1313/notes/secondyear/ece212/</loc>
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/firstyear/mat187/</loc>
+    <loc>http://localhost:1313/notes/secondyear/ece216/</loc>
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/firstyear/mat188/</loc>
-    <lastmod>2024-07-03T18:36:41-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/firstyear/mie100/</loc>
+    <loc>http://localhost:1313/notes/secondyear/ece221/</loc>
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/secondyear/ece231/</loc>
@@ -62,13 +59,31 @@
     <loc>http://localhost:1313/notes/secondyear/ece243/</loc>
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/secondyear/mat188/</loc>
+    <loc>http://localhost:1313/notes/secondyear/ece244/</loc>
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/secondyear/mat291/</loc>
+    <loc>http://localhost:1313/notes/secondyear/ece244-youtube/</loc>
+    <lastmod>2024-07-03T18:36:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/secondyear/ece29x/</loc>
+    <lastmod>2024-07-03T18:36:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/firstyear/mat187/</loc>
+    <lastmod>2024-07-03T18:36:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/firstyear/mat188/</loc>
+    <lastmod>2024-07-03T18:36:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/firstyear/mie100/</loc>
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/firstyear/mat224/</loc>
+    <lastmod>2024-07-03T18:36:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/secondyear/mat290/</loc>
+    <lastmod>2024-07-03T18:36:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/secondyear/mat291/</loc>
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
