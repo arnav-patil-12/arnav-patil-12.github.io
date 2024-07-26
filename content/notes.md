@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of course notes. I hope you find them as helpful or insightful as I did! If you have any questions or feedback, feel free to reach out to me at [arnav.patil@mail.utoronto.ca](mailto:arnav.patil@mail.utoronto.ca)
 
-Last Update: MAT224 -- all of Chapter 1 finished.
+Last Update: MAT224 -- up to Section 2.2.
 
 ## First Year
 ### Fall
