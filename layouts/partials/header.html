@@ -21,8 +21,11 @@
         </div>
     </div>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css">
-    <link rel="stylesheet" href="/path/to/your/custom.css">
-    {{ partial "google-analytics.html" . }}
+        <link rel="stylesheet" href="/path/to/your/custom.css">
+            {{ partial "google-analytics.html" . }}
+            <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+            <script src="{{ "js/search.js" | relURL }}"></script>
+
 </header>
 <div id="mobile-menu" class="">
     <ul>

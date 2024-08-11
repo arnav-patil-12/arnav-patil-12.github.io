@@ -1,0 +1,14 @@
+{{- $pages := where .Site.RegularPages "Section" "notes" -}}
+[
+  {{- range $index, $page := $pages -}}
+  {{- if $index }},{{- end -}}
+  {
+    "title": {{ $page.Title | jsonify }},
+    "url": {{ $page.Permalink | jsonify }},
+    "content": {{ $page.Plain | jsonify }},
+    "tags": {{ $page.Params.tags | jsonify }},
+    "category": {{ $page.Params.category | jsonify }},
+    "date": {{ $page.Date | jsonify }}
+  }
+  {{- end -}}
+]
