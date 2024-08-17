@@ -4,7 +4,7 @@ date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
 
-On this page, I've curated a collection of course notes. I hope you find them as helpful or insightful as I did! If you have any questions or feedback, feel free to reach out to me at [arnav.patil@mail.utoronto.ca](mailto:arnav.patil@mail.utoronto.ca)
+On this page, I've curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out to me at [arnav.patil@mail.utoronto.ca](mailto:arnav.patil@mail.utoronto.ca)
 
 Last Update: MAT224 -- up to Section 2.2.
 
