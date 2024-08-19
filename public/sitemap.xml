@@ -8,10 +8,10 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-04T16:48:10-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/posts/first-year-classes/</loc>
     <lastmod>2024-07-04T16:48:10-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-04T16:48:10-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/untagged/</loc>

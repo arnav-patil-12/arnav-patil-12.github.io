@@ -10,11 +10,11 @@
     <lastBuildDate>Thu, 04 Jul 2024 16:48:10 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Ranking My First Year Classes</title>
+      <link>http://localhost:1313/posts/first-year-classes/</link>
       <pubDate>Thu, 04 Jul 2024 16:48:10 -0600</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Test post. Just making sure my blog actually works!</description>
+      <guid>http://localhost:1313/posts/first-year-classes/</guid>
+      <description>Fall Semester APS100: Orientation to Engineering Great course in theory but not so much in practice. APS100 is meant to introduce a lot of the Faculty&amp;rsquo;s and University&amp;rsquo;s resources to students, and also help us get on our feet through assignments such as creating a task list and weekly schedule. However, the grading was arbitrary and harsh, and the lectures were conducted very poorly, with technical issues and angry-professor-tangents plaguing content delivery.</description>
     </item>
   </channel>
 </rss>

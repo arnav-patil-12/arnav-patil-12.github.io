@@ -10,11 +10,11 @@
     <lastBuildDate>Thu, 04 Jul 2024 16:48:10 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Ranking My First Year Classes</title>
+      <link>http://localhost:1313/posts/first-year-classes/</link>
       <pubDate>Thu, 04 Jul 2024 16:48:10 -0600</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Test post. Just making sure my blog actually works!</description>
+      <guid>http://localhost:1313/posts/first-year-classes/</guid>
+      <description>Fall Semester APS100: Orientation to Engineering Great course in theory but not so much in practice. APS100 is meant to introduce a lot of the Faculty&amp;rsquo;s and University&amp;rsquo;s resources to students, and also help us get on our feet through assignments such as creating a task list and weekly schedule. However, the grading was arbitrary and harsh, and the lectures were conducted very poorly, with technical issues and angry-professor-tangents plaguing content delivery.</description>
     </item>
     <item>
       <title>About Me</title>
@@ -63,14 +63,14 @@
       <link>http://localhost:1313/notes/</link>
       <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
       <guid>http://localhost:1313/notes/</guid>
-      <description>On this page, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful or insightful as I did! If you have any questions or feedback, feel free to reach out to me at arnav.patil@mail.utoronto.ca&#xA;Last Update: MAT224 &amp;ndash; up to Section 2.2.&#xA;First Year Fall APS110: Engineering Chemistry and Materials Science&#xA;APS111: Engineering Strategies &amp;amp; Practice I&#xA;MAT188: Linear Algebra (Engineering)&#xA;MAT224: Linear Algebra II (Arts &amp;amp; Science)</description>
+      <description>On this page, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out to me at arnav.patil@mail.utoronto.ca&#xA;Last Update: ECE110 and MIE100 &amp;ndash; final exam cheat sheets added.&#xA;First Year Fall APS110: Engineering Chemistry and Materials Science&#xA;APS111: Engineering Strategies &amp;amp; Practice I&#xA;MAT188: Linear Algebra (Engineering)&#xA;MAT224: Linear Algebra II (Arts &amp;amp; Science)</description>
     </item>
     <item>
       <title>ECE110</title>
       <link>http://localhost:1313/notes/firstyear/ece110/</link>
       <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
       <guid>http://localhost:1313/notes/firstyear/ece110/</guid>
-      <description>Electrical Fundamentals Notes Lecture Notes&#xA;Textbook Notes&#xA;Formula Sheet&#xA;Course Description ECE110: Electrical Fundamentals is a course taken by some first-year undergraduate students at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. This course is taken by students in ECE, Mech, Indy, MSE, and TrackOne. This course provides a review of topics in electricity and magnetism that students may have learned in high school, and introduces topics such as: basic circuit analysis, RC and RL circuits, transient response, and AC steady-state analysis.</description>
+      <description>Electrical Fundamentals Notes Lecture Notes and Textbook Notes&#xA;Formula Sheet&#xA;Course Description ECE110: Electrical Fundamentals is a course taken by some first-year undergraduate students at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. This course is taken by students in ECE, Mech, Indy, MSE, and TrackOne. This course provides a review of topics in electricity and magnetism that students may have learned in high school, and introduces topics such as: basic circuit analysis, RC and RL circuits, transient response, and AC steady-state analysis.</description>
     </item>
     <item>
       <title>ECE231</title>

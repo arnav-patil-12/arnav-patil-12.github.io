@@ -10,13 +10,45 @@
 		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Test Post</title>
-			<link>http://localhost:1313/posts/my-first-post/</link>
+			<title>Arnav&#39;s Take On First Year Engineering</title>
+			<link>http://localhost:1313/posts/first-year-classes/</link>
 			<pubDate>Thu, 04 Jul 2024 16:48:10 -0600</pubDate>
 			
-			<guid>http://localhost:1313/posts/my-first-post/</guid>
+			<guid>http://localhost:1313/posts/first-year-classes/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
-			<content type="html"><![CDATA[<p>Test post. Just making sure my blog actually works!</p>
+			<content type="html"><![CDATA[<p>As I&rsquo;ve received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I&rsquo;ve decided to provide my comments on each course, as well as its course average.</p>
+<h1 id="fall-semester">Fall Semester</h1>
+<h2 id="aps100-orientation-to-engineering">APS100: Orientation to Engineering</h2>
+<p>Great course in theory but not so much in practice. APS100 is meant to introduce a lot of the Faculty&rsquo;s and University&rsquo;s resources to students, and also help us get on our feet through assignments such as creating a task list and weekly schedule. However, the grading was arbitrary and harsh, and the lectures were conducted very poorly, with technical issues and angry-professor-tangents plaguing content delivery. The only reason I can justify giving this course anything higher than a C is the tutorial, which was staffed by an awesome TA who genuinely cared for the students and helped us through a tumultuous semester.</p>
+<p><strong>Course-Wide Final Average: P/H</strong> (this course is graded F/P/H)</p>
+<h2 id="aps110-engineering-chemistry-and-materials-science">APS110: Engineering Chemistry and Materials Science</h2>
+<p>This is a generic first course in materials science and chemistry, and is very straightforward so long as you put in the effort to read the textbook or keep up with the lecturer. I enjoyed these 9:00 AM classes and Professor Ramsay&rsquo;s discussions. The textbook, also writted by Prof. Ramsay, is a great read, and I wrote all of <a href="/notes/firstyear/aps110/">my notes</a> based off the textbook, adding additional material mentioned in lecture.</p>
+<p><strong>Course-Wide Final Average: B-</strong></p>
+<h2 id="aps111-engineering-strategies-and-practice-i">APS111: Engineering Strategies and Practice I</h2>
+<p>Lots of important content that is useful for engineers to know, and the whole design project isn&rsquo;t a bad in itself either. However, this semester will either genuinely make you wonder how some of your classmates were accepted into UofT Engineering or leave you with your new best friends. Make sure you use every opportunity to earn the extra PD points though, as only 10 PD points will add a whole percentage to your final grade!</p>
+<p><strong>Course-Wide Final Average: B</strong></p>
+<h2 id="civ100-mechanics">CIV100: Mechanics</h2>
+<p>Aaaah yes, the course with the highest first-year kill count. I enjoyed the content, its applications, and especially my instructor, Professor El-Diraby. I do wish I had put more effort into this course, especially by doing more practice problems, and asking my questions earlier. If you like it, good for you, but if you&rsquo;re indifferent to this course, just do your best to get a good grade and move on.</p>
+<p><strong>Course-Wide Final Average: C+</strong></p>
+<h2 id="mat186-calculus-i">MAT186: Calculus I</h2>
+<p><strong>Course-Wide Final Average: C</strong></p>
+<h2 id="mat188-linear-algebra">MAT188: Linear Algebra</h2>
+<p><strong>Course-Wide Final Average: B-</strong></p>
+<h2 id="fall-sessional-gpa-254">Fall Sessional GPA: 2.54</h2>
+<h1 id="winter-semester">Winter Semester</h1>
+<h2 id="aps105-computer-fundamentals-taken-summer-2024">APS105: Computer Fundamentals (taken Summer 2024)</h2>
+<p><strong>Final Grade: B</strong></p>
+<h2 id="aps106-fundamentals-of-computer-programming">APS106: Fundamentals of Computer Programming</h2>
+<p>blah</p>
+<p><strong>Final Grade: C+</strong></p>
+<h2 id="aps112-engineering-strategies-and-practice-ii">APS112: Engineering Strategies and Practice II</h2>
+<h2 id="ece110-electrical-fundamentals">ECE110: Electrical Fundamentals</h2>
+<h2 id="mie100-dynamics">MIE100: Dynamics</h2>
+<p><strong>Final Grade: C+</strong></p>
+<h2 id="mie191-introduction-to-mechanical-and-industrial-engineering">MIE191: Introduction to Mechanical and Industrial Engineering</h2>
+<p><strong>Final Grade: CR</strong> (this course is graded on a CR/NCR basis)</p>
+<h2 id="winter-sessional-gpa">Winter Sessional GPA:</h2>
+<h1 id="first-year-cumulative-gpa">First-Year Cumulative GPA:</h1>
 ]]></content>
 		</item>
 		
