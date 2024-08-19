@@ -6,17 +6,17 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>CHANGE ME</copyright>
-		<lastBuildDate>Thu, 04 Jul 2024 16:48:10 -0600</lastBuildDate>
+		<lastBuildDate>Sun, 18 Aug 2024 19:29:10 -0600</lastBuildDate>
 		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Arnav&#39;s Take On First Year Engineering</title>
 			<link>http://localhost:1313/posts/first-year-classes/</link>
-			<pubDate>Thu, 04 Jul 2024 16:48:10 -0600</pubDate>
+			<pubDate>Sun, 18 Aug 2024 19:29:10 -0600</pubDate>
 			
 			<guid>http://localhost:1313/posts/first-year-classes/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
-			<content type="html"><![CDATA[<p>As I&rsquo;ve received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I&rsquo;ve decided to provide my comments on each course, as well as its course average.</p>
+			<content type="html"><![CDATA[<p>As I&rsquo;ve received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I&rsquo;ve decided to provide my comments on each course, as well as its course average. <strong>This page is still under construction, I&rsquo;ll be done when this bolded line disappears.</strong></p>
 <h1 id="fall-semester">Fall Semester</h1>
 <h2 id="aps100-orientation-to-engineering">APS100: Orientation to Engineering</h2>
 <p>Great course in theory but not so much in practice. APS100 is meant to introduce a lot of the Faculty&rsquo;s and University&rsquo;s resources to students, and also help us get on our feet through assignments such as creating a task list and weekly schedule. However, the grading was arbitrary and harsh, and the lectures were conducted very poorly, with technical issues and angry-professor-tangents plaguing content delivery. The only reason I can justify giving this course anything higher than a C is the tutorial, which was staffed by an awesome TA who genuinely cared for the students and helped us through a tumultuous semester.</p>
@@ -31,24 +31,34 @@
 <p>Aaaah yes, the course with the highest first-year kill count. I enjoyed the content, its applications, and especially my instructor, Professor El-Diraby. I do wish I had put more effort into this course, especially by doing more practice problems, and asking my questions earlier. If you like it, good for you, but if you&rsquo;re indifferent to this course, just do your best to get a good grade and move on.</p>
 <p><strong>Course-Wide Final Average: C+</strong></p>
 <h2 id="mat186-calculus-i">MAT186: Calculus I</h2>
+<p>Essentially everything you&rsquo;ve covered in calculus till date (with the addition of some topics in ODEs, I really hope they keep that this year). Midterms and assignments were a bit funky, and as class rep I always had people complaining that they got zeroes on the assignments because they forgot to sign the academic integrity statement (so don&rsquo;t forget to do that). While I did poorly in this course, there are other reasons I wasn&rsquo;t a big fan of it: I had a few run-ins (unprofessional and borderline abusive interactions) with a TA and a professor that really jaded my view, and I made sure to let them know during course evals.</p>
 <p><strong>Course-Wide Final Average: C</strong></p>
 <h2 id="mat188-linear-algebra">MAT188: Linear Algebra</h2>
 <p><strong>Course-Wide Final Average: B-</strong></p>
-<h2 id="fall-sessional-gpa-254">Fall Sessional GPA: 2.54</h2>
+<h3 id="fall-sessional-gpa-254">Fall Sessional GPA: 2.54</h3>
 <h1 id="winter-semester">Winter Semester</h1>
 <h2 id="aps105-computer-fundamentals-taken-summer-2024">APS105: Computer Fundamentals (taken Summer 2024)</h2>
-<p><strong>Final Grade: B</strong></p>
+<p><strong>Course-Wide Final Average: B</strong></p>
 <h2 id="aps106-fundamentals-of-computer-programming">APS106: Fundamentals of Computer Programming</h2>
-<p>blah</p>
-<p><strong>Final Grade: C+</strong></p>
+<p>A generic first course in computer programming using Python. I went into this course with no prior coding experience, and found it extremely straightforward with consistent practice. Make sure you understand what&rsquo;s going on in the labs, and use the lower averages to ride the curve to the top LOL. I got more value from the textbook (not well-written for the price) than I did from the lectures, but going to the design problem lectures is a good idea if you want to learn how to actually apply code. I will also say that as an Indy (industrial engineering student) at the time of taking this course, I found that APS105 (C) would have been much better preparation for second-year programming courses.</p>
+<p>This course will at some point become EXT&rsquo;d for me because I don&rsquo;t need it as an ECE student. But until then, I&rsquo;ll take the extra boost on my GPA!</p>
+<p><strong>Course-Wide Final Average: C+</strong></p>
 <h2 id="aps112-engineering-strategies-and-practice-ii">APS112: Engineering Strategies and Practice II</h2>
+<p>No comments. Like ESP I but worse in most ways.</p>
+<p><strong>Course-Wide Final Average: B-</strong></p>
 <h2 id="ece110-electrical-fundamentals">ECE110: Electrical Fundamentals</h2>
+<p>W course, W content, W professors (especially Xilin Liu). By far my favourite and one of the easiest courses of winter semester. Some of you may have an advantage in that you&rsquo;ve covered part of the content. Use the textbook if you don&rsquo;t understand the E&amp;M concepts, and attend tutorials for the circuits part because it&rsquo;s free practice for solving circuits (trust me you&rsquo;ll be needing it). Don&rsquo;t bother putting down past questions and exams on your cheatsheet, it&rsquo;s not worth it &ndash; instead, focus on including important concepts and proceudres, see <a href="/files/firstyear/ece110formulae.pdf">the one I used in my final exam</a>, for example.</p>
+<p><strong>Course-Wide Final Average: B-</strong></p>
+<h2 id="mat187-calculus-ii">MAT187: Calculus II</h2>
+<p><strong>Course-Wide Final Average: B-</strong></p>
 <h2 id="mie100-dynamics">MIE100: Dynamics</h2>
-<p><strong>Final Grade: C+</strong></p>
+<p>There&rsquo;s generally a lot of controversy over which course is harder between CIV100 and MIE100. I think that it comes down to what you learned in high school physics; the Alberta high school physics curriculum puts more emphasis on dynamics over statics, which is why I found this course significantly easier. The teaching team is great, and the support they provide makes MIE100 a better course than CIV100 any day. Make sure you understand the assignment questions and the examples covered in class, everything on the midterm and exam will be a combination of something you&rsquo;ve seen before. Oh, and don&rsquo;t forget to draw reaction forces for simple harmonic motion diagrams! (see that happened to my buddy once)</p>
+<p><strong>Course-Wide Final Average: C+</strong></p>
 <h2 id="mie191-introduction-to-mechanical-and-industrial-engineering">MIE191: Introduction to Mechanical and Industrial Engineering</h2>
-<p><strong>Final Grade: CR</strong> (this course is graded on a CR/NCR basis)</p>
-<h2 id="winter-sessional-gpa">Winter Sessional GPA:</h2>
-<h1 id="first-year-cumulative-gpa">First-Year Cumulative GPA:</h1>
+<p>Great seminar course, highly recommend attending. You get to learn a lot of cool things about your discipline such as what industry and research opportunities are available. Keep in mind not all 191 courses are structured the same, for example, to earn a CR in ECE191, you have to attend 9/12 lectures, whereas in MIE191 you need to finish a short assignment at the start and end of the semester.</p>
+<p><strong>Course-Wide Final Average: CR</strong> (this course is graded on a CR/NCR basis)</p>
+<h3 id="winter-sessional-gpa-246">Winter Sessional GPA: 2.46</h3>
+<h3 id="first-year-cumulative-gpa-a-whopping-250">First-Year Cumulative GPA: a whopping 2.50</h3>
 ]]></content>
 		</item>
 		
