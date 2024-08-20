@@ -35,7 +35,7 @@ While I did poorly in this course, there are other reasons I wasn't a big fan of
 A generic first course in linear algebra. Pay attention to the course readings, and make good use of the textbook if you don't understand any of the content discussed in class. This was also a course where I regretted not spending more effort to do more practice problems and past midterms.
 
 **Course-Wide Final Average: B-**
-### Average Fall Sessional GPA: 2.54 (if a student scored the course average in everu course, this would be their GPA)
+### Average Fall Sessional GPA: 2.54 (if a student scored the course average in every course, this would be their GPA)
 
 # Winter Semester
 ## APS105: Computer Fundamentals (taken Summer 2024)
@@ -68,6 +68,6 @@ There's generally a lot of controversy over which course is harder between CIV10
 Great seminar course, highly recommend attending. You get to learn a lot of cool things about your discipline such as what industry and research opportunities are available. Keep in mind not all 191 courses are structured the same, for example, to earn a CR in ECE191, you have to attend 9/12 lectures, whereas in MIE191 you need to finish a short assignment at the start and end of the semester. 
 
 **Course-Wide Final Average: CR** (this course is graded on a CR/NCR basis)
-### Average Winter Sessional GPA: 2.46 (if a student scored the course average in everu course, this would be their GPA)
+### Average Winter Sessional GPA: 2.46 (if a student scored the course average in every course, this would be their GPA)
 
-### Average First-Year Cumulative GPA: a whopping 2.50 (if a student scored the course average in everu course, this would be their GPA)
+### Average First-Year Cumulative GPA: a whopping 2.50 
