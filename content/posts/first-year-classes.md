@@ -39,6 +39,7 @@ A generic first course in linear algebra. Pay attention to the course readings, 
 
 # Winter Semester
 ## APS105: Computer Fundamentals (taken Summer 2024)
+A much better programming course compared to its counterpart (APS106). This is an introduction to C programming, and students will also learn about some basic sorting algorithms and data structures. One thing that did strike me, however, is that the pace of the content was easily manageable in the summer despite being accelerated (fall-winter courses are four months, summer is less than 2); this made me wonder about the pace of the course during the winter semester. Overall, APS105 is a good course, and it's the only course that is mandatory for transfers into ECE.
 
 **Course-Wide Final Average: B**
 ## APS106: Fundamentals of Computer Programming 
