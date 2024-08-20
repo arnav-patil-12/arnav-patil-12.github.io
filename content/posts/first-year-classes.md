@@ -1,5 +1,5 @@
 ---
-title: "Arnav's Take On First Year Engineering"
+title: "Arnav's Review of First Year Engineering"
 date: 2024-08-18T19:29:10-06:00
 draft: false
 toc: false
@@ -7,7 +7,7 @@ images:
 tags: 
   - untagged
 ---
-As I've received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I've decided to provide my comments on each course, as well as its course average. **This page is still under construction, I'll be done when this bolded line disappears.**
+As I've received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I've decided to provide my comments on each course, as well as its course average. 
 # Fall Semester
 ## APS100: Orientation to Engineering
 Great course in theory but not so much in practice. APS100 is meant to introduce a lot of the Faculty's and University's resources to students, and also help us get on our feet through assignments such as creating a task list and weekly schedule. However, the grading was arbitrary and harsh, and the lectures were conducted very poorly, with technical issues and angry-professor-tangents plaguing content delivery. The only reason I can justify giving this course anything higher than a C is the tutorial, which was staffed by an awesome TA who genuinely cared for the students and helped us through a tumultuous semester.
@@ -26,11 +26,13 @@ Aaaah yes, the course with the highest first-year kill count. I enjoyed the cont
 
 **Course-Wide Final Average: C+**
 ## MAT186: Calculus I
-Essentially everything you've covered in calculus till date (with the addition of some topics in ODEs, I really hope they keep that this year). Midterms and assignments were a bit funky, and as class rep I always had people complaining that they got zeroes on the assignments because they forgot to sign the academic integrity statement (so don't forget to do that). While I did poorly in this course, there are other reasons I wasn't a big fan of it: I had a few run-ins (unprofessional and borderline abusive interactions) with a TA and a professor that really jaded my view, and I made sure to let them know during course evals.
+Essentially everything you've covered in calculus till date (with the addition of some topics in ODEs, I really hope they keep that this year). Midterms and assignments were a bit funky, and as class rep I always had people complaining that they got zeroes on the assignments because they forgot to sign the academic integrity statement (so don't forget to do that). 
+
+While I did poorly in this course, there are other reasons I wasn't a big fan of it: I had a few run-ins with a TA and a professor that really jaded my view, and I made sure to let them know during course evals.
 
 **Course-Wide Final Average: C**
 ## MAT188: Linear Algebra
-
+A generic first course in linear algebra. Pay attention to the course readings, and make good use of the textbook if you don't understand any of the content discussed in class. This was also a course where I regretted not spending more effort to do more practice problems and past midterms.
 
 **Course-Wide Final Average: B-**
 ### Fall Sessional GPA: 2.54
@@ -54,6 +56,7 @@ W course, W content, W professors (especially Xilin Liu). By far my favourite an
 
 **Course-Wide Final Average: B-**
 ## MAT187: Calculus II
+Well-taught course for the most part (I only really took issue with the methods used to teach the sequences and series unit). As an ECE/MIE/T1 student, you'll learn all of the last unit (vector-valued calculus) in MIE100, and I have heard rumblings of that being taken out of the curriculum. After learning my lesson, I was proactive in identifying weak points and spending more time to practice those topics; it paid off!
 
 **Course-Wide Final Average: B-**
 ## MIE100: Dynamics
