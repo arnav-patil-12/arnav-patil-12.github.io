@@ -10,7 +10,7 @@ tags:
 As I've received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I've decided to provide my comments on each course, as well as its course average. 
 # Fall Semester
 ## APS100: Orientation to Engineering
-Great course in theory but not so much in practice. APS100 is meant to introduce a lot of the Faculty's and University's resources to students, and also help us get on our feet through assignments such as creating a task list and weekly schedule. However, the grading was arbitrary and harsh, and the lectures were conducted very poorly, with technical issues and angry-professor-tangents plaguing content delivery. The only reason I can justify giving this course anything higher than a C is the tutorial, which was staffed by an awesome TA who genuinely cared for the students and helped us through a tumultuous semester.
+Great course in theory but not so much in practice. APS100 is meant to introduce a lot of the Faculty's and University's resources to students, and also help us get on our feet through assignments such as creating a task list and weekly schedule. However, the grading was arbitrary and harsh, and the lectures were conducted very poorly, with technical issues and angry-professor-tangents plaguing content delivery. If I was to grade this course, the only reason I could justify giving this course anything higher than a C is the tutorial, which was staffed by an awesome TA who genuinely cared for the students and helped us through a tumultuous semester.
 
 **Course-Wide Final Average: P/H** (this course is graded F/P/H)
 ## APS110: Engineering Chemistry and Materials Science
@@ -35,7 +35,7 @@ While I did poorly in this course, there are other reasons I wasn't a big fan of
 A generic first course in linear algebra. Pay attention to the course readings, and make good use of the textbook if you don't understand any of the content discussed in class. This was also a course where I regretted not spending more effort to do more practice problems and past midterms.
 
 **Course-Wide Final Average: B-**
-### Fall Sessional GPA: 2.54
+### Average Fall Sessional GPA: 2.54 (if a student scored the course average in everu course, this would be their GPA)
 
 # Winter Semester
 ## APS105: Computer Fundamentals (taken Summer 2024)
@@ -68,6 +68,6 @@ There's generally a lot of controversy over which course is harder between CIV10
 Great seminar course, highly recommend attending. You get to learn a lot of cool things about your discipline such as what industry and research opportunities are available. Keep in mind not all 191 courses are structured the same, for example, to earn a CR in ECE191, you have to attend 9/12 lectures, whereas in MIE191 you need to finish a short assignment at the start and end of the semester. 
 
 **Course-Wide Final Average: CR** (this course is graded on a CR/NCR basis)
-### Winter Sessional GPA: 2.46
+### Average Winter Sessional GPA: 2.46 (if a student scored the course average in everu course, this would be their GPA)
 
-### First-Year Cumulative GPA: a whopping 2.50
+### Average First-Year Cumulative GPA: a whopping 2.50 (if a student scored the course average in everu course, this would be their GPA)
