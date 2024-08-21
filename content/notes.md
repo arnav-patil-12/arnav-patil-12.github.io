@@ -14,12 +14,12 @@ Last Update: ECE110 and MIE100 -- final exam cheat sheets added.
 
 [APS111: Engineering Strategies & Practice I](/notes/firstyear/aps111/)
 
-[MAT188: Linear Algebra](/notes/firstyear/mat188) (Engineering)
+[MAT188: Linear Algebra (Engineering)](/notes/firstyear/mat188)
 
-[MAT224: Linear Algebra II](/notes/firstyear/mat224) (Arts & Science)
+[MAT224: Linear Algebra II (Arts & Science](/notes/firstyear/mat224) --- left incomplete :( 
 
 ### Winter
-[APS105: Computer Fundamentals](/notes/firstyear/aps105/) (taken in Summer 2024)
+[APS105: Computer Fundamentals](/notes/firstyear/aps105/) --- taken in Summer 2024
 
 [APS106: Fundamentals of Computer Programming](/notes/firstyear/aps106/)
 
