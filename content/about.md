@@ -4,8 +4,6 @@ date = 2024-07-03T18:39:57-06:00
 draft = false
 +++
 
-My name is Arnav, and I'm a second-year student studying Electrical and Computer Engineering (ECE) at the University of Toronto, with a double Minor in Artificial Intelligence and Engineering Business. I'm interested in exploring topics in computer hardware and machine intelligence. Outside of classes, I'm involved with the University of Toronto Engineering Society and the IEEE University of Toronto Student Branch.
+My name is Arnav, and I'm a second-year student studying Electrical and Computer Engineering (ECE) at the University of Toronto, with a double Minor in Artificial Intelligence and Engineering Business. I'm interested in exploring computer hardware and machine intelligence. 
 
-Feel free to reach out!
-
-LinkedIn: [https://www.linkedin.com/in/arnavpatil/](https://www.linkedin.com/in/arnavpatil/)
+Outside of classes, I'm involved with the University of Toronto Engineering Society as a [Project Director](https://linktr.ee/engsoc_esd) and the [IEEE University of Toronto Student Branch](https://ieee.utoronto.ca).

@@ -10,59 +10,96 @@
 		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Arnav&#39;s Review of First Year Engineering</title>
-			<link>http://localhost:1313/posts/first-year-classes/</link>
+			<title>First-Year Engineering Calendar (Arnav&#39;s Version)</title>
+			<link>http://localhost:1313/posts/first-year/</link>
 			<pubDate>Sun, 18 Aug 2024 19:29:10 -0600</pubDate>
 			
-			<guid>http://localhost:1313/posts/first-year-classes/</guid>
+			<guid>http://localhost:1313/posts/first-year/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
-			<content type="html"><![CDATA[<p>As I&rsquo;ve received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I&rsquo;ve decided to provide my comments on each course, as well as its course average.</p>
+			<content type="html"><![CDATA[<p>As I&rsquo;ve received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I&rsquo;ve decided to provide my advice for each course.</p>
 <h1 id="fall-semester">Fall Semester</h1>
 <h2 id="aps100-orientation-to-engineering">APS100: Orientation to Engineering</h2>
-<p>Great course in theory but not so much in practice. APS100 is meant to introduce a lot of the Faculty&rsquo;s and University&rsquo;s resources to students, and also help us get on our feet through assignments such as creating a task list and weekly schedule. However, the grading was arbitrary and harsh, and the lectures were conducted very poorly, with technical issues and angry-professor-tangents plaguing content delivery. If I was to grade this course, the only reason I could justify giving this course anything higher than a C is the tutorial, which was staffed by an awesome TA who genuinely cared for the students and helped us through a tumultuous semester.</p>
-<p><strong>Course-Wide Final Average: P/H</strong> (this course is graded F/P/H)</p>
+<ul>
+<li>Grading for assignments is abritrary and harsh &ndash; so don&rsquo;t skip tutorials (you might need the tutorial grades).</li>
+<li>Get to know your TA and listen when they talk about their experiences.</li>
+<li>Make note of the resources they provide &ndash; even though the lecture delivery is questionable, you might find yourself needing the resources.</li>
+</ul>
 <h2 id="aps110-engineering-chemistry-and-materials-science">APS110: Engineering Chemistry and Materials Science</h2>
-<p>This is a generic first course in materials science and chemistry, and is very straightforward so long as you put in the effort to read the textbook or keep up with the lecturer. I enjoyed these 9:00 AM classes and Professor Ramsay&rsquo;s discussions. The textbook, also writted by Prof. Ramsay, is a great read, and I wrote all of <a href="/notes/firstyear/aps110/">my notes</a> based off the textbook, adding additional material mentioned in lecture.</p>
-<p><strong>Course-Wide Final Average: B-</strong></p>
+<ul>
+<li>Take good textbook notes, then add extra content covered in lectures.</li>
+<li>Highly recommend attending Prof. Ramsay&rsquo;s 9:00 AM lectures.</li>
+<li>Use Prof. Ramsay&rsquo;s videos to revisit any content you didn&rsquo;t understand the first time.</li>
+<li>Tutorials are generally good, and they&rsquo;re helpful to attend around quiz/midterm time.</li>
+</ul>
 <h2 id="aps111-engineering-strategies-and-practice-i">APS111: Engineering Strategies and Practice I</h2>
-<p>Lots of important content that is useful for engineers to know, and the whole design project isn&rsquo;t a bad in itself either. However, this semester will either genuinely make you wonder how some of your classmates were accepted into UofT Engineering or leave you with your new best friends. Make sure you use every opportunity to earn the extra PD points though, as only 10 PD points will add a whole percentage to your final grade!</p>
-<p><strong>Course-Wide Final Average: B</strong></p>
+<ul>
+<li>Pay attention to the readings, they&rsquo;re more helpful than you might first think.</li>
+<li>Buy full-year access to the Perusall textbook, there&rsquo;s more material to cover in APS112.</li>
+<li>This semester will either genuinely make you wonder how some of your classmates were accepted into UofT Engineering or leave you with your new best friends.</li>
+<li>Make sure you use every opportunity to earn the extra PD points though, as only 10 PD points will add a whole percentage to your final grade!</li>
+</ul>
 <h2 id="civ100-mechanics">CIV100: Mechanics</h2>
-<p>Aaaah yes, the course with the highest first-year kill count. I enjoyed the content, its applications, and especially my instructor, Professor El-Diraby. I do wish I had put more effort into this course, especially by doing more practice problems, and asking my questions earlier. If you like it, good for you, but if you&rsquo;re indifferent to this course, just do your best to get a good grade and move on.</p>
-<p><strong>Course-Wide Final Average: C+</strong></p>
+<ul>
+<li>Aaaah yes, the course with the highest first-year kill count.</li>
+<li>I wish I had put more effort into this course, especially by doing more practice problems, and asking my questions earlier.</li>
+<li>If you like it, good for you, but if you&rsquo;re indifferent to this course, just do your best to pass and move on.</li>
+</ul>
 <h2 id="mat186-calculus-i">MAT186: Calculus I</h2>
-<p>Essentially everything you&rsquo;ve covered in calculus till date (with the addition of some topics in ODEs, I really hope they keep that this year). Midterms and assignments were a bit funky, and as class rep I always had people complaining that they got zeroes on the assignments because they forgot to sign the academic integrity statement (so don&rsquo;t forget to do that).</p>
-<p>While I did poorly in this course, there are other reasons I wasn&rsquo;t a big fan of it: I had a few run-ins with a TA and a professor that really jaded my view, and I made sure to let them know during course evals.</p>
-<p><strong>Course-Wide Final Average: C</strong></p>
+<ul>
+<li>Essentially everything you&rsquo;ve covered in calculus till date (with the addition of some topics in ODEs, I really hope they keep that this year).</li>
+<li>Midterms and assignments were a bit funky, and as class rep I always had people complaining that they got zeroes on the assignments because they forgot to sign the academic integrity statement (so don&rsquo;t forget to do that).</li>
+<li>While I did poorly in this course, there are other reasons I wasn&rsquo;t a big fan of it: I had a few run-ins with a TA and a professor that really jaded my view, and I made sure to let them know during course evals.</li>
+</ul>
 <h2 id="mat188-linear-algebra">MAT188: Linear Algebra</h2>
-<p>A generic first course in linear algebra. Pay attention to the course readings, and make good use of the textbook if you don&rsquo;t understand any of the content discussed in class. This was also a course where I regretted not spending more effort to do more practice problems and past midterms.</p>
-<p><strong>Course-Wide Final Average: B-</strong></p>
-<h3 id="average-fall-sessional-gpa-254-if-a-student-scored-the-course-average-in-every-course-this-would-be-their-gpa">Average Fall Sessional GPA: 2.54 (if a student scored the course average in every course, this would be their GPA)</h3>
+<ul>
+<li>Pay attention to the course readings, and make good use of the textbook if you don&rsquo;t understand any of the content discussed in class.</li>
+<li>This was also a course where I regretted not spending more effort to do more practice problems and past midterms.</li>
+<li>Learn MATLAB, you&rsquo;ll very likely be using it in your upper-year courses.</li>
+</ul>
 <h1 id="winter-semester">Winter Semester</h1>
 <h2 id="aps105-computer-fundamentals-taken-summer-2024">APS105: Computer Fundamentals (taken Summer 2024)</h2>
-<p>A much better programming course compared to its counterpart (APS106). This is an introduction to C programming, and students will also learn about some basic sorting algorithms and data structures. One thing that did strike me, however, is that the pace of the content was easily manageable in the summer despite being accelerated (fall-winter courses are four months, summer is less than 2); this made me wonder about the pace of the course during the winter semester. Overall, APS105 is a good course, and it&rsquo;s the only course that is mandatory for transfers into ECE.</p>
-<p><strong>Course-Wide Final Average: B</strong></p>
+<ul>
+<li>A much better programming course compared to its counterpart (APS106).</li>
+<li>One thing that did strike me, however, is that the pace of the content was easily manageable in the summer despite being accelerated (fall-winter courses are four months, summer is less than 2); this made me wonder about the pace of the course during the winter semester.</li>
+<li>Overall, a good course, and it&rsquo;s the only course that is mandatory for transfers into ECE.</li>
+</ul>
 <h2 id="aps106-fundamentals-of-computer-programming">APS106: Fundamentals of Computer Programming</h2>
-<p>A generic first course in computer programming using Python. I went into this course with no prior coding experience, and found it extremely straightforward with consistent practice. Make sure you understand what&rsquo;s going on in the labs, and use the lower averages to ride the curve to the top LOL. I got more value from the textbook (not well-written for the price) than I did from the lectures, but going to the design problem lectures is a good idea if you want to learn how to actually apply code. I will also say that as an Indy (industrial engineering student) at the time of taking this course, I found that APS105 (C) would have been much better preparation for second-year programming courses.</p>
+<ul>
+<li>A generic first course in computer programming using Python.</li>
+<li>I went into this course with no prior coding experience, and found it extremely straightforward with consistent practice.</li>
+<li>Make sure you understand what&rsquo;s going on in the labs, and <strong>use the lower averages to ride the curve to the top LOL.</strong></li>
+<li>I will also say that as an Indy (industrial engineering student) at the time of taking this course, I found that APS105 (C) would have been much better preparation for second-year programming courses.</li>
+</ul>
 <p>This course will at some point become EXT&rsquo;d for me because I don&rsquo;t need it as an ECE student. But until then, I&rsquo;ll take the extra boost on my GPA!</p>
-<p><strong>Course-Wide Final Average: C+</strong></p>
 <h2 id="aps112-engineering-strategies-and-practice-ii">APS112: Engineering Strategies and Practice II</h2>
-<p>No comments. Like ESP I but worse in most ways.</p>
-<p><strong>Course-Wide Final Average: B-</strong></p>
+<ul>
+<li>No comments. Like ESP I but worse in most ways.</li>
+</ul>
 <h2 id="ece110-electrical-fundamentals">ECE110: Electrical Fundamentals</h2>
-<p>W course, W content, W professors (especially Xilin Liu). By far my favourite and one of the easiest courses of winter semester. Some of you may have an advantage in that you&rsquo;ve covered part of the content. Use the textbook if you don&rsquo;t understand the E&amp;M concepts, and attend tutorials for the circuits part because it&rsquo;s free practice for solving circuits (trust me you&rsquo;ll be needing it). Don&rsquo;t bother putting down past questions and exams on your cheatsheet, it&rsquo;s not worth it &ndash; instead, focus on including important concepts and proceudres, see <a href="/files/firstyear/ece110formulae.pdf">the one I used in my final exam</a>, for example.</p>
-<p><strong>Course-Wide Final Average: B-</strong></p>
+<ul>
+<li>W course, W content, W professors (especially Xilin Liu). By far my favourite and one of the easiest courses of winter semester.</li>
+<li>Some of you may have an advantage in that you&rsquo;ve covered part of the content. Use the textbook if you don&rsquo;t understand the E&amp;M concepts, and attend tutorials for the circuits part because it&rsquo;s free practice for solving circuits (trust me you&rsquo;ll be needing it).</li>
+<li>Don&rsquo;t bother putting down past questions and exams on your cheatsheet, it&rsquo;s not worth it &ndash; instead, focus on including important concepts and proceudres, see <a href="/files/firstyear/ece110formulae.pdf">the one I used in my final exam</a>, for example.</li>
+</ul>
 <h2 id="mat187-calculus-ii">MAT187: Calculus II</h2>
-<p>Well-taught course for the most part (I only really took issue with the methods used to teach the sequences and series unit). As an ECE/MIE/T1 student, you&rsquo;ll learn all of the last unit (vector-valued calculus) in MIE100, and I have heard rumblings of that being taken out of the curriculum. After learning my lesson, I was proactive in identifying weak points and spending more time to practice those topics; it paid off!</p>
-<p><strong>Course-Wide Final Average: B-</strong></p>
+<ul>
+<li>Well-taught course for the most part (I only really took issue with the methods used to teach the sequences and series unit).</li>
+<li>As an ECE/MIE/T1 student, you&rsquo;ll learn all of the last unit (vector-valued calculus) in MIE100, and I have heard rumblings of that being taken out of the curriculum.</li>
+<li>Practice practice practice!!!!!! Learn your lessons from Calc I and Linear Algebra.</li>
+</ul>
 <h2 id="mie100-dynamics">MIE100: Dynamics</h2>
-<p>There&rsquo;s generally a lot of controversy over which course is harder between CIV100 and MIE100. I think that it comes down to what you learned in high school physics; the Alberta high school physics curriculum puts more emphasis on dynamics over statics, which is why I found this course significantly easier. The teaching team is great, and the support they provide makes MIE100 a better course than CIV100 any day. Make sure you understand the assignment questions and the examples covered in class, everything on the midterm and exam will be a combination of something you&rsquo;ve seen before. Oh, and don&rsquo;t forget to draw reaction forces for simple harmonic motion diagrams! (see that happened to my buddy once)</p>
-<p><strong>Course-Wide Final Average: C+</strong></p>
-<h2 id="mie191-introduction-to-mechanical-and-industrial-engineering">MIE191: Introduction to Mechanical and Industrial Engineering</h2>
-<p>Great seminar course, highly recommend attending. You get to learn a lot of cool things about your discipline such as what industry and research opportunities are available. Keep in mind not all 191 courses are structured the same, for example, to earn a CR in ECE191, you have to attend 9/12 lectures, whereas in MIE191 you need to finish a short assignment at the start and end of the semester.</p>
-<p><strong>Course-Wide Final Average: CR</strong> (this course is graded on a CR/NCR basis)</p>
-<h3 id="average-winter-sessional-gpa-246-if-a-student-scored-the-course-average-in-every-course-this-would-be-their-gpa">Average Winter Sessional GPA: 2.46 (if a student scored the course average in every course, this would be their GPA)</h3>
-<h3 id="average-first-year-cumulative-gpa-a-whopping-250">Average First-Year Cumulative GPA: a whopping 2.50</h3>
+<ul>
+<li>There&rsquo;s generally a lot of controversy over which course is harder between CIV100 and MIE100. I think that it comes down to what you learned in high school physics; the Alberta high school physics curriculum puts more emphasis on dynamics over statics, which is why I found this course significantly easier.</li>
+<li>The teaching team is great, and the support they provide makes MIE100 a better course than CIV100 any day.</li>
+<li>Make sure you understand the assignment questions and the examples covered in class, everything on the midterm and exam will be a combination of something you&rsquo;ve seen before.</li>
+<li>Oh, and don&rsquo;t forget to draw reaction forces for simple harmonic motion diagrams! (see that happened to my buddy once)</li>
+</ul>
+<h2 id="mie191-intro-to-mechanical-and-industrial-engineering">MIE191: Intro to Mechanical and Industrial Engineering</h2>
+<ul>
+<li>Great seminar course, highly recommend attending.</li>
+<li>You get to learn a lot of cool things about your discipline such as what industry and research opportunities are available.</li>
+<li>Keep in mind not all 191 courses are structured the same, for example, to earn a CR in ECE191, you have to attend 9/12 lectures, whereas in MIE191 you need to finish a short assignment at the start and end of the semester.</li>
+</ul>
 ]]></content>
 		</item>
 		
