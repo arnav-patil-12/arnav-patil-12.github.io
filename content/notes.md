@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out to me at [arnav.patil@mail.utoronto.ca](mailto:arnav.patil@mail.utoronto.ca)
 
-Last Update: ECE110 and MIE100 -- final exam cheat sheets added.
+Last Update: ECE110 and MIE100 --- final exam cheat sheets added.
 
 ## First Year
 ### Fall
@@ -16,7 +16,7 @@ Last Update: ECE110 and MIE100 -- final exam cheat sheets added.
 
 [MAT188: Linear Algebra (Engineering)](/notes/firstyear/mat188)
 
-[MAT224: Linear Algebra II (Arts & Science](/notes/firstyear/mat224) --- left incomplete :( 
+[MAT224: Linear Algebra II (Arts & Science)](/notes/firstyear/mat224) --- left incomplete :( 
 
 ### Winter
 [APS105: Computer Fundamentals](/notes/firstyear/aps105/) --- taken in Summer 2024
