@@ -6,7 +6,7 @@ draft = false
 
 On this page, I've curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out to me at [arnav.patil@mail.utoronto.ca](mailto:arnav.patil@mail.utoronto.ca)
 
-Last Update: ECE110 and MIE100 --- final exam cheat sheets added.
+Last Update: MAT291 --- chapter 13.5 added.
 
 ## First Year
 ### Fall
@@ -32,4 +32,5 @@ Last Update: ECE110 and MIE100 --- final exam cheat sheets added.
 [MIE100: Dynamics](/notes/firstyear/mie100/)
 
 ## Second Year
-Notes will be uploaded starting September.
+### Fall
+[MAT291: Introduction to Mathematical Physics](/notes/secondyear/mat291/)
