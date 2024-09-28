@@ -10,11 +10,25 @@
     <lastBuildDate>Wed, 21 Aug 2024 22:24:23 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ECE241</title>
+      <link>http://localhost:1313/notes/secondyear/ece241/</link>
+      <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
+      <guid>http://localhost:1313/notes/secondyear/ece241/</guid>
+      <description>Digital Systems (with Verilog) Notes Textbook Notes&#xA;Course Description Copying from the Academic Calendar until I can write my own description of the course:&#xA;Digital logic circuit design with substantial hands-on laboratory work. Algebraic and truth table representation of logic functions and variables. Optimizations of combinational logic, using &amp;ldquo;don&amp;rsquo;t cares.&amp;rdquo; Multi-level logic optimization. Transistor-level design of logic gates; propagation delay and timing of gates and circuits. The Verilog hardware description language.</description>
+    </item>
+    <item>
+      <title>MAT290</title>
+      <link>http://localhost:1313/notes/secondyear/mat290/</link>
+      <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
+      <guid>http://localhost:1313/notes/secondyear/mat290/</guid>
+      <description>Advanced Engineering Mathematics Notes Textbook + Readings Notes Repo&#xA;Course Description Copying from the Academic Calendar until I can write my own description of the course:&#xA;An introduction to complex variables and ordinary differential equations. Topics include: Laplace transforms, ordinary higher-order linear differential equations with constant coefficients; transform methods; complex numbers and the complex plane; complex functions; limits and continuity; derivatives and integrals; analytic functions and the Cauchy-Riemann equations; power series as analytic functions; the logarithmic and exponential functions; Cauchy&amp;rsquo;s integral theorem, Laurent series, residues, Cauchy&amp;rsquo;s integral formula, the Laplace transform as an analytic function.</description>
+    </item>
+    <item>
       <title>MAT291</title>
       <link>http://localhost:1313/notes/secondyear/mat291/</link>
       <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
       <guid>http://localhost:1313/notes/secondyear/mat291/</guid>
-      <description>Introduction to Mathematical Physics (Calculus III) Notes Textbook + Readings Notes Repo &amp;mdash; Last Update: Chapter 13.5 added.&#xA;Course Description Will be published soon!</description>
+      <description>Introduction to Mathematical Physics (Calculus III) Notes Textbook + Readings Notes Repo&#xA;Course Description Copying from the Academic Calendar until I can write my own description of the course:&#xA;The chain rule for functions of several variables; the gradient, directional derivative, tangent plane and small signal modeling and Jacobians. Multiple integrals; change of variables and Jacobians, line integrals: parametric and explicit representations, the divergence and curl of a vector field, surface integrals; parametric and explicit representations, multi-variable Dirac Delta distribution, superposition of vector fields, Helmholtz decomposition theorem, Divergence theorem and Stokes&amp;rsquo; theorem and application from electromagnetic fields.</description>
     </item>
     <item>
       <title>First-Year Engineering Calendar (Arnav&#39;s Version)</title>
@@ -64,20 +78,6 @@
       <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
       <guid>http://localhost:1313/notes/firstyear/aps112/</guid>
       <description>Engineering Strategies &amp;amp; Practice II Notes Lecture Notes + Textbook Excerpts&#xA;Course Description Engineering Strategies &amp;amp; Practice (ESP) is a two-course program within the first-year curriculum at University of Toronto&amp;rsquo;s Faculty of Applied Science &amp;amp; Engineering. These are introductory design courses, meaning that students work in teams on projects brought forward by real-life clients. In the fall semester, all groups work on one of a few projects brought forward by the same client (Hart House in my year, and Sidney Smith Commons the year prior).</description>
-    </item>
-    <item>
-      <title>Course Notes</title>
-      <link>http://localhost:1313/notes/</link>
-      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
-      <guid>http://localhost:1313/notes/</guid>
-      <description>On this page, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out to me at arnav.patil@mail.utoronto.ca&#xA;Last Update: MAT291 &amp;mdash; chapter 13.5 added.&#xA;First Year Fall APS110: Engineering Chemistry and Materials Science&#xA;APS111: Engineering Strategies &amp;amp; Practice I&#xA;MAT188: Linear Algebra (Engineering)&#xA;MAT224: Linear Algebra II (Arts &amp;amp; Science) &amp;mdash; left incomplete :(</description>
-    </item>
-    <item>
-      <title>ECE110</title>
-      <link>http://localhost:1313/notes/firstyear/ece110/</link>
-      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
-      <guid>http://localhost:1313/notes/firstyear/ece110/</guid>
-      <description>Electrical Fundamentals Notes Lecture Notes and Textbook Notes&#xA;Formula Sheet&#xA;Course Description ECE110: Electrical Fundamentals is a course taken by some first-year undergraduate students at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. This course is taken by students in ECE, Mech, Indy, MSE, and TrackOne. This course provides a review of topics in electricity and magnetism that students may have learned in high school, and introduces topics such as: basic circuit analysis, RC and RL circuits, transient response, and AC steady-state analysis.</description>
     </item>
   </channel>
 </rss>
