@@ -35,8 +35,10 @@ Last Update: file structure revamp
 ### Fall
 [ECE241: Digital Systems](/notes/secondyear/ece241/)
 
+[ECE244: Programming Fundamentals](/notes/secondyear/ece244/)
+
 [MAT290: Advanced Engineering Mathematics](/notes/secondyear/mat290/)
 
 [MAT291: Introduction to Mathematical Physics](/notes/secondyear/mat291/)
 
-Other courses are in progress!
+Other courses are in progress! They will most likely be finished after the end of the fall term.
