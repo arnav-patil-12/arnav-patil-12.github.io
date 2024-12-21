@@ -33,7 +33,6 @@ Last Update: file structure revamp
 
 ## Second Year
 ### Fall
-[ECE241: Digital Systems](/notes/secondyear/ece241/)
 
 [ECE244: Programming Fundamentals](/notes/secondyear/ece244/)
 

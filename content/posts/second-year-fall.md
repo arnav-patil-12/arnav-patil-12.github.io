@@ -1,7 +1,7 @@
 ---
 title: "Ranking my Fall Semester Second Year ECE Courses"
-date: 2024-12-18T19:29:10-06:00
-draft: false
+date: 2024-12-21T16:16:46-07:00
+draft: true
 toc: false
 images:
 tags: 
