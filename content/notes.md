@@ -6,8 +6,6 @@ draft = false
 
 On this page, I've curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out to me at [arnav.patil@mail.utoronto.ca](mailto:arnav.patil@mail.utoronto.ca)
 
-Last Update: file structure revamp
-
 ## First Year
 ### Fall
 [APS110: Engineering Chemistry and Materials Science](/notes/firstyear/aps110/)
@@ -34,10 +32,10 @@ Last Update: file structure revamp
 ## Second Year
 ### Fall
 
+[ECE231: Introductory Electronics](notes/secondyear/ece231)
+
 [ECE244: Programming Fundamentals](/notes/secondyear/ece244/)
 
 [MAT290: Advanced Engineering Mathematics](/notes/secondyear/mat290/)
 
 [MAT291: Introduction to Mathematical Physics](/notes/secondyear/mat291/)
-
-ECE231 notes will be up shortly and I don't have publishable ECE241 notes sadly. 
