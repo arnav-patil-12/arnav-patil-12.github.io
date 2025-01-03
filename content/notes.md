@@ -40,4 +40,4 @@ Last Update: file structure revamp
 
 [MAT291: Introduction to Mathematical Physics](/notes/secondyear/mat291/)
 
-Other courses are in progress! They will most likely be finished after the end of the fall term.
+ECE231 notes will be up shortly and I don't have publishable ECE241 notes sadly. 

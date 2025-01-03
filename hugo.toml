@@ -18,7 +18,7 @@ expiryDate = ["expiryDate"]
 
 [params]
     googleAnalytics = "G-7QHC9MQ5TP"
-    homeSubtitle = "Computer Engineering Student at the University of Toronto"
+    homeSubtitle = "Electrical Engineering Student at the University of Toronto"
     footerCopyright = "Arnav Patil"
  
     dateform        = ""
