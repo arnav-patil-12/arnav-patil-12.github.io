@@ -39,3 +39,17 @@ On this page, I've curated a collection of course notes. I hope you find them as
 [MAT290: Advanced Engineering Mathematics](/notes/secondyear/mat290/)
 
 [MAT291: Introduction to Mathematical Physics](/notes/secondyear/mat291/)
+
+### Winter
+
+Notes will linked at the end of the semester! For now the links do not redirect anywhere.
+
+[ECE212: Circuit Analysis]()
+
+[ECE216: Signals and Systems]()
+
+[ECE221: Electric and Magnetic Fields]()
+
+[ECE243: Computer Organization]()
+
+[ECE297: Software Design and Communication]()
