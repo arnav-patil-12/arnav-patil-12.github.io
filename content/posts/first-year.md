@@ -1,7 +1,7 @@
 ---
 title: "First-Year Engineering Calendar (Arnav's Version)"
 date: 2024-08-18T19:29:10-06:00
-draft: false
+draft: true
 toc: false
 images:
 tags: 

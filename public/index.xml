@@ -7,77 +7,35 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>CHANGE ME</copyright>
-    <lastBuildDate>Fri, 03 Jan 2025 08:49:31 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 18:13:28 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Year Fall Course Rankings</title>
-      <link>http://localhost:1313/posts/second-year-fall/</link>
-      <pubDate>Fri, 03 Jan 2025 08:49:31 -0700</pubDate>
-      <guid>http://localhost:1313/posts/second-year-fall/</guid>
-      <description>I want to continue what I started with the first blog post on discussing first-year courses.&#xA;1st: ECE241 My Review You learn a lot of content but don&amp;rsquo;t dive too deep into it; if you&amp;rsquo;re especially interested in something, you need to learn it on your own. Labs are quite fun, if not the greatest olfactory experience. They reflect lecture content and teach out about digital hardware design/verification. As daunting as the project seems, much of the stress/pressure is what students bring on themselves; the instructors&amp;rsquo; expectations for the project are significantly lower than what I thought they&amp;rsquo;d be.</description>
+      <title>Year Two</title>
+      <link>http://localhost:1313/notes/year-two/</link>
+      <pubDate>Tue, 08 Apr 2025 18:13:28 -0400</pubDate>
+      <guid>http://localhost:1313/notes/year-two/</guid>
+      <description>On this website, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out (contact info at top right).&#xA;Fall ECE231: Introductory Electronics Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;ECE241: Digital Systems - (no notes) ECE244: Programming Fundamentals Textbook Notes</description>
     </item>
     <item>
-      <title>ECE231</title>
-      <link>http://localhost:1313/notes/secondyear/ece212/</link>
-      <pubDate>Wed, 01 Jan 2025 22:24:23 -0600</pubDate>
-      <guid>http://localhost:1313/notes/secondyear/ece212/</guid>
-      <description>Introductory Electronics Notes Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;Course Description The year I took this course was the first year of it being offered in the fall; it was previously offered in the winter, with ECE212: Circuit Analysis being it&amp;rsquo;s fall prerequisite. There&amp;rsquo;s quite a few factors that led to it being offered in the fall instead (Faculty politics being one of them, I imagine).</description>
-    </item>
-    <item>
-      <title>ECE231</title>
-      <link>http://localhost:1313/notes/secondyear/ece216/</link>
-      <pubDate>Wed, 01 Jan 2025 22:24:23 -0600</pubDate>
-      <guid>http://localhost:1313/notes/secondyear/ece216/</guid>
-      <description>Introductory Electronics Notes Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;Course Description The year I took this course was the first year of it being offered in the fall; it was previously offered in the winter, with ECE212: Circuit Analysis being it&amp;rsquo;s fall prerequisite. There&amp;rsquo;s quite a few factors that led to it being offered in the fall instead (Faculty politics being one of them, I imagine).</description>
-    </item>
-    <item>
-      <title>ECE231</title>
-      <link>http://localhost:1313/notes/secondyear/ece221/</link>
-      <pubDate>Wed, 01 Jan 2025 22:24:23 -0600</pubDate>
-      <guid>http://localhost:1313/notes/secondyear/ece221/</guid>
-      <description>Introductory Electronics Notes Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;Course Description The year I took this course was the first year of it being offered in the fall; it was previously offered in the winter, with ECE212: Circuit Analysis being it&amp;rsquo;s fall prerequisite. There&amp;rsquo;s quite a few factors that led to it being offered in the fall instead (Faculty politics being one of them, I imagine).</description>
-    </item>
-    <item>
-      <title>ECE231</title>
-      <link>http://localhost:1313/notes/secondyear/ece231/</link>
-      <pubDate>Wed, 01 Jan 2025 22:24:23 -0600</pubDate>
-      <guid>http://localhost:1313/notes/secondyear/ece231/</guid>
-      <description>Introductory Electronics Notes Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;Course Description The year I took this course was the first year of it being offered in the fall; it was previously offered in the winter, with ECE212: Circuit Analysis being it&amp;rsquo;s fall prerequisite. There&amp;rsquo;s quite a few factors that led to it being offered in the fall instead (Faculty politics being one of them, I imagine).</description>
-    </item>
-    <item>
-      <title>ECE244</title>
-      <link>http://localhost:1313/notes/secondyear/ece244/</link>
-      <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
-      <guid>http://localhost:1313/notes/secondyear/ece244/</guid>
-      <description>Programming Fundamentals (C++) Notes Textbook Notes&#xA;Course Description A pretty standard course in C++. While a lot of the content was straightforward, most of the labs were quite boring as (in my opinion) they didn&amp;rsquo;t showcase the full potential of low-level programming. I wish we got more labs like the circuit simulation one, as it most closely related to what we were learning in other courses.&#xA;Computer-based midterm and final exam were also a nightmare for me personally (and for the teaching team logisitically, it seems).</description>
-    </item>
-    <item>
-      <title>MAT290</title>
-      <link>http://localhost:1313/notes/secondyear/mat290/</link>
-      <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
-      <guid>http://localhost:1313/notes/secondyear/mat290/</guid>
-      <description>Advanced Engineering Mathematics Notes Combined Textbook Notes&#xA;Individual Chapter Notes&#xA;MAT290 Concept Mind Map&#xA;Course Description Lots of material covered in the course so it&amp;rsquo;s a good idea to keep up with the suggested homework problems. The instructors do a great job of explaining how the course content relates to future courses in signals, circuits, etc.</description>
-    </item>
-    <item>
-      <title>MAT291</title>
-      <link>http://localhost:1313/notes/secondyear/mat291/</link>
-      <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
-      <guid>http://localhost:1313/notes/secondyear/mat291/</guid>
-      <description>Introduction to Mathematical Physics (Calculus III) Notes Combined Textbook + Lecture Notes&#xA;Individual Chapter Notes&#xA;Course Description A very computationally heavy course; nearly all the marks I lost were because I made computation errors. Make good use of the instructor-provided course notes, and complete as many practice problems as possible. Pay good attention to what shows up on the quizzes and during the final lecture where the instructors go over what will show up on the final.</description>
-    </item>
-    <item>
-      <title>First-Year Engineering Calendar (Arnav&#39;s Version)</title>
-      <link>http://localhost:1313/posts/first-year/</link>
-      <pubDate>Sun, 18 Aug 2024 19:29:10 -0600</pubDate>
-      <guid>http://localhost:1313/posts/first-year/</guid>
-      <description>As I&amp;rsquo;ve received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I&amp;rsquo;ve decided to provide my advice for each course.&#xA;Fall Semester APS100: Orientation to Engineering Grading for assignments is abritrary and harsh &amp;ndash; so don&amp;rsquo;t skip tutorials (you might need the tutorial grades). Get to know your TA and listen when they talk about their experiences. Make note of the resources they provide &amp;ndash; even though the lecture delivery is questionable, you might find yourself needing the resources.</description>
+      <title>First Year</title>
+      <link>http://localhost:1313/notes/year-one/</link>
+      <pubDate>Fri, 04 Apr 2025 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/year-one/</guid>
+      <description>On this website, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out (contact info at top right).&#xA;Fall APS110: Engineering Chemistry and Materials Science Textbook Notes + Lecture Excerpts&#xA;APS111: Engineering Strategies and Practice I Lecture Notes + Textbook Excerpts&#xA;CIV100: Mechanics - (no notes) MAT186: Calculus I - (no notes) MAT188: Linear Algebra Lecture Readings Notes</description>
     </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 03 Jul 2024 18:39:57 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I’m a second-year student studying Electrical and Computer Engineering (ECE) at the University of Toronto. My interests lie in computer hardware and digital electronics (FPGAs/ASICs) for use in AIML.&#xA;This summer, I&amp;rsquo;ll be working at Prof. Roman Genov&amp;rsquo;s Intelligent Sensory Microsystems Lab (ISML) on FPGAs and active sensor pixel cameras. More updates to come!</description>
+      <description>I’m a second-year student studying Electrical and Computer Engineering (ECE) at the University of Toronto. My interests lie in computer hardware and digital electronics (FPGAs/ASICs) for use in AIML.&#xA;This summer, I&amp;rsquo;ll be joining Prof. Roman Genov&amp;rsquo;s Intelligent Sensory Microsystems Lab (ISML) as an FPGA Research Intern! I’ll be working on high-speed digital design for next-generation 3D imaging systems. My role entails FPGA-controlled laser modulation and real-time synchronization for Epipolar Time-of-Flight imaging, blending hardware design, signal processing, and system-level integration to bring new innovations in imaging technology.</description>
+    </item>
+    <item>
+      <title>Course Notes</title>
+      <link>http://localhost:1313/notes/</link>
+      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
+      <guid>http://localhost:1313/notes/</guid>
+      <description>On this website, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out (contact info at top right).&#xA;First Year Second Year The view from my favourite study spot: Robarts 12th Floor! Added cause why not </description>
     </item>
   </channel>
 </rss>
