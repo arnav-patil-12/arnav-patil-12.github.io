@@ -12,6 +12,10 @@ On this page, I've curated a collection of course notes. I hope you find them as
 
 [APS111: Engineering Strategies & Practice I](/notes/firstyear/aps111/)
 
+CIV100: Mechanics (no notes)
+
+MAT186: Calculus I (no notes)
+
 [MAT188: Linear Algebra (Engineering)](/notes/firstyear/mat188)
 
 [MAT224: Linear Algebra II (Arts & Science)](/notes/firstyear/mat224) --- left incomplete :( 
@@ -32,7 +36,9 @@ On this page, I've curated a collection of course notes. I hope you find them as
 ## Second Year
 ### Fall
 
-[ECE231: Introductory Electronics](notes/secondyear/ece231)
+[ECE231: Introductory Electronics](/notes/secondyear/ece231/)
+
+ECE241: Digital Systems (no notes)
 
 [ECE244: Programming Fundamentals](/notes/secondyear/ece244/)
 
@@ -41,15 +47,24 @@ On this page, I've curated a collection of course notes. I hope you find them as
 [MAT291: Introduction to Mathematical Physics](/notes/secondyear/mat291/)
 
 ### Winter
+For now, these are the courses I'm taking this semester. Notes will be linked at the end of the year!
 
-Notes will linked at the end of the semester! For now the links do not redirect anywhere.
+ECE212: Circuit Analysis
 
-[ECE212: Circuit Analysis]()
+ECE216: Signals and Systems
 
-[ECE216: Signals and Systems]()
+ECE221: Electric and Magnetic Fields
 
-[ECE221: Electric and Magnetic Fields]()
+ECE243: Computer Organization
 
-[ECE243: Computer Organization]()
+ECE297: Software Design and Communication
 
-[ECE297: Software Design and Communication]()
+
+
+
+
+
+
+
+
+

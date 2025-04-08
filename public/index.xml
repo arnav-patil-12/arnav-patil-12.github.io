@@ -7,28 +7,63 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>CHANGE ME</copyright>
-    <lastBuildDate>Wed, 21 Aug 2024 22:24:23 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:49:31 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ECE241</title>
-      <link>http://localhost:1313/notes/secondyear/ece241/</link>
+      <title>Second Year Fall Course Rankings</title>
+      <link>http://localhost:1313/posts/second-year-fall/</link>
+      <pubDate>Fri, 03 Jan 2025 08:49:31 -0700</pubDate>
+      <guid>http://localhost:1313/posts/second-year-fall/</guid>
+      <description>I want to continue what I started with the first blog post on discussing first-year courses.&#xA;1st: ECE241 My Review You learn a lot of content but don&amp;rsquo;t dive too deep into it; if you&amp;rsquo;re especially interested in something, you need to learn it on your own. Labs are quite fun, if not the greatest olfactory experience. They reflect lecture content and teach out about digital hardware design/verification. As daunting as the project seems, much of the stress/pressure is what students bring on themselves; the instructors&amp;rsquo; expectations for the project are significantly lower than what I thought they&amp;rsquo;d be.</description>
+    </item>
+    <item>
+      <title>ECE231</title>
+      <link>http://localhost:1313/notes/secondyear/ece212/</link>
+      <pubDate>Wed, 01 Jan 2025 22:24:23 -0600</pubDate>
+      <guid>http://localhost:1313/notes/secondyear/ece212/</guid>
+      <description>Introductory Electronics Notes Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;Course Description The year I took this course was the first year of it being offered in the fall; it was previously offered in the winter, with ECE212: Circuit Analysis being it&amp;rsquo;s fall prerequisite. There&amp;rsquo;s quite a few factors that led to it being offered in the fall instead (Faculty politics being one of them, I imagine).</description>
+    </item>
+    <item>
+      <title>ECE231</title>
+      <link>http://localhost:1313/notes/secondyear/ece216/</link>
+      <pubDate>Wed, 01 Jan 2025 22:24:23 -0600</pubDate>
+      <guid>http://localhost:1313/notes/secondyear/ece216/</guid>
+      <description>Introductory Electronics Notes Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;Course Description The year I took this course was the first year of it being offered in the fall; it was previously offered in the winter, with ECE212: Circuit Analysis being it&amp;rsquo;s fall prerequisite. There&amp;rsquo;s quite a few factors that led to it being offered in the fall instead (Faculty politics being one of them, I imagine).</description>
+    </item>
+    <item>
+      <title>ECE231</title>
+      <link>http://localhost:1313/notes/secondyear/ece221/</link>
+      <pubDate>Wed, 01 Jan 2025 22:24:23 -0600</pubDate>
+      <guid>http://localhost:1313/notes/secondyear/ece221/</guid>
+      <description>Introductory Electronics Notes Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;Course Description The year I took this course was the first year of it being offered in the fall; it was previously offered in the winter, with ECE212: Circuit Analysis being it&amp;rsquo;s fall prerequisite. There&amp;rsquo;s quite a few factors that led to it being offered in the fall instead (Faculty politics being one of them, I imagine).</description>
+    </item>
+    <item>
+      <title>ECE231</title>
+      <link>http://localhost:1313/notes/secondyear/ece231/</link>
+      <pubDate>Wed, 01 Jan 2025 22:24:23 -0600</pubDate>
+      <guid>http://localhost:1313/notes/secondyear/ece231/</guid>
+      <description>Introductory Electronics Notes Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;Course Description The year I took this course was the first year of it being offered in the fall; it was previously offered in the winter, with ECE212: Circuit Analysis being it&amp;rsquo;s fall prerequisite. There&amp;rsquo;s quite a few factors that led to it being offered in the fall instead (Faculty politics being one of them, I imagine).</description>
+    </item>
+    <item>
+      <title>ECE244</title>
+      <link>http://localhost:1313/notes/secondyear/ece244/</link>
       <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
-      <guid>http://localhost:1313/notes/secondyear/ece241/</guid>
-      <description>Digital Systems (with Verilog) Notes Textbook Notes&#xA;Course Description Copying from the Academic Calendar until I can write my own description of the course:&#xA;Digital logic circuit design with substantial hands-on laboratory work. Algebraic and truth table representation of logic functions and variables. Optimizations of combinational logic, using &amp;ldquo;don&amp;rsquo;t cares.&amp;rdquo; Multi-level logic optimization. Transistor-level design of logic gates; propagation delay and timing of gates and circuits. The Verilog hardware description language.</description>
+      <guid>http://localhost:1313/notes/secondyear/ece244/</guid>
+      <description>Programming Fundamentals (C++) Notes Textbook Notes&#xA;Course Description A pretty standard course in C++. While a lot of the content was straightforward, most of the labs were quite boring as (in my opinion) they didn&amp;rsquo;t showcase the full potential of low-level programming. I wish we got more labs like the circuit simulation one, as it most closely related to what we were learning in other courses.&#xA;Computer-based midterm and final exam were also a nightmare for me personally (and for the teaching team logisitically, it seems).</description>
     </item>
     <item>
       <title>MAT290</title>
       <link>http://localhost:1313/notes/secondyear/mat290/</link>
       <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
       <guid>http://localhost:1313/notes/secondyear/mat290/</guid>
-      <description>Advanced Engineering Mathematics Notes Textbook + Readings Notes Repo&#xA;Course Description Copying from the Academic Calendar until I can write my own description of the course:&#xA;An introduction to complex variables and ordinary differential equations. Topics include: Laplace transforms, ordinary higher-order linear differential equations with constant coefficients; transform methods; complex numbers and the complex plane; complex functions; limits and continuity; derivatives and integrals; analytic functions and the Cauchy-Riemann equations; power series as analytic functions; the logarithmic and exponential functions; Cauchy&amp;rsquo;s integral theorem, Laurent series, residues, Cauchy&amp;rsquo;s integral formula, the Laplace transform as an analytic function.</description>
+      <description>Advanced Engineering Mathematics Notes Combined Textbook Notes&#xA;Individual Chapter Notes&#xA;MAT290 Concept Mind Map&#xA;Course Description Lots of material covered in the course so it&amp;rsquo;s a good idea to keep up with the suggested homework problems. The instructors do a great job of explaining how the course content relates to future courses in signals, circuits, etc.</description>
     </item>
     <item>
       <title>MAT291</title>
       <link>http://localhost:1313/notes/secondyear/mat291/</link>
       <pubDate>Wed, 21 Aug 2024 22:24:23 -0600</pubDate>
       <guid>http://localhost:1313/notes/secondyear/mat291/</guid>
-      <description>Introduction to Mathematical Physics (Calculus III) Notes Textbook + Readings Notes Repo&#xA;Course Description Copying from the Academic Calendar until I can write my own description of the course:&#xA;The chain rule for functions of several variables; the gradient, directional derivative, tangent plane and small signal modeling and Jacobians. Multiple integrals; change of variables and Jacobians, line integrals: parametric and explicit representations, the divergence and curl of a vector field, surface integrals; parametric and explicit representations, multi-variable Dirac Delta distribution, superposition of vector fields, Helmholtz decomposition theorem, Divergence theorem and Stokes&amp;rsquo; theorem and application from electromagnetic fields.</description>
+      <description>Introduction to Mathematical Physics (Calculus III) Notes Combined Textbook + Lecture Notes&#xA;Individual Chapter Notes&#xA;Course Description A very computationally heavy course; nearly all the marks I lost were because I made computation errors. Make good use of the instructor-provided course notes, and complete as many practice problems as possible. Pay good attention to what shows up on the quizzes and during the final lecture where the instructors go over what will show up on the final.</description>
     </item>
     <item>
       <title>First-Year Engineering Calendar (Arnav&#39;s Version)</title>
@@ -42,42 +77,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 03 Jul 2024 18:39:57 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>My name is Arnav, and I&amp;rsquo;m a second-year student studying Electrical and Computer Engineering (ECE) at the University of Toronto, with a double Minor in Artificial Intelligence and Engineering Business. I&amp;rsquo;m interested in exploring computer hardware and machine intelligence.&#xA;Outside of classes, I&amp;rsquo;m involved with the University of Toronto Engineering Society as a Project Director and the IEEE University of Toronto Student Branch.</description>
-    </item>
-    <item>
-      <title>APS105</title>
-      <link>http://localhost:1313/notes/firstyear/aps105/</link>
-      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
-      <guid>http://localhost:1313/notes/firstyear/aps105/</guid>
-      <description>Computer Fundamentals Notes Textbook Notes + Lecture Excerpts&#xA;Course Description APS105: Computer Fundamentals is a first-year programming course taken by undergraduate students at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. Though any first-year may opt to take this course, it is a prerequisite for second-year studies in Electrical and Computer Engineering. It is also taken by most TrackOne (general engineering) students. This course teaches students to code in the C programming language; the other disciplines, and those who opt not to learn C, take APS106: Fundamentals of Computer Programming (which teaches Python).</description>
-    </item>
-    <item>
-      <title>APS106</title>
-      <link>http://localhost:1313/notes/firstyear/aps106/</link>
-      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
-      <guid>http://localhost:1313/notes/firstyear/aps106/</guid>
-      <description>Fundamentals of Computer Programming Notes Textbook Notes&#xA;Course Description APS106: Fundamentals of Computer Programming is a course taken by most first-year undergraduates at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. The disciplines that take this course are: Mech, Indy, Chem, Civ, Min, and MSE. According to the Academic Calendar, this course teaches basic concepts in software systems and algorithms, and utilizes the Python language.&#xA;I took this course in Winter 2024, and ended the course with an A+.</description>
-    </item>
-    <item>
-      <title>APS110</title>
-      <link>http://localhost:1313/notes/firstyear/aps110/</link>
-      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
-      <guid>http://localhost:1313/notes/firstyear/aps110/</guid>
-      <description>Engineering Chemistry and Materials Science Notes Textbook Notes + Lecture Excerpts&#xA;Course Description APS110: Engineering Chemistry and Materials Science is a course at the University of Toronto&amp;rsquo;s Faculty of Applied Science and Engineering. According to the Academic Calendar, the course is built on the principle of the structure-property relationship. This is one of the five courses taken by ALL undergraduates in the Fall semester of their first year.&#xA;I took this course in Fall 2023 under Professor Scott Ramsay.</description>
-    </item>
-    <item>
-      <title>APS111</title>
-      <link>http://localhost:1313/notes/firstyear/aps111/</link>
-      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
-      <guid>http://localhost:1313/notes/firstyear/aps111/</guid>
-      <description>Engineering Strategies &amp;amp; Practice I Notes Lecture Notes + Textbook Excerpts&#xA;Course Description Engineering Strategies &amp;amp; Practice (ESP) is a two-course program within the first-year curriculum at University of Toronto&amp;rsquo;s Faculty of Applied Science &amp;amp; Engineering. These are introductory design courses, meaning that students work in teams on projects brought forward by real-life clients. In the fall semester, all groups work on one of a few projects brought forward by the same client (Hart House in my year, and Sidney Smith Commons the year prior).</description>
-    </item>
-    <item>
-      <title>APS112</title>
-      <link>http://localhost:1313/notes/firstyear/aps112/</link>
-      <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
-      <guid>http://localhost:1313/notes/firstyear/aps112/</guid>
-      <description>Engineering Strategies &amp;amp; Practice II Notes Lecture Notes + Textbook Excerpts&#xA;Course Description Engineering Strategies &amp;amp; Practice (ESP) is a two-course program within the first-year curriculum at University of Toronto&amp;rsquo;s Faculty of Applied Science &amp;amp; Engineering. These are introductory design courses, meaning that students work in teams on projects brought forward by real-life clients. In the fall semester, all groups work on one of a few projects brought forward by the same client (Hart House in my year, and Sidney Smith Commons the year prior).</description>
+      <description>I’m a second-year student studying Electrical and Computer Engineering (ECE) at the University of Toronto. My interests lie in computer hardware and digital electronics (FPGAs/ASICs) for use in AIML.&#xA;This summer, I&amp;rsquo;ll be working at Prof. Roman Genov&amp;rsquo;s Intelligent Sensory Microsystems Lab (ISML) on FPGAs and active sensor pixel cameras. More updates to come!</description>
     </item>
   </channel>
 </rss>

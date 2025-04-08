@@ -18,7 +18,7 @@ expiryDate = ["expiryDate"]
 
 [params]
     googleAnalytics = "G-7QHC9MQ5TP"
-    homeSubtitle = "Electrical Engineering Student at the University of Toronto"
+    homeSubtitle = "Electrical & Computer Engineering @ the University of Toronto"
     footerCopyright = "Arnav Patil"
  
     dateform        = ""
@@ -57,20 +57,20 @@ expiryDate = ["expiryDate"]
     [[menu.main]]
         name = "About Me"
         url = "about/"
-        weight = 10
+        weight = 1
 
     [[menu.main]]
         name = "Course Notes"
         url = "notes/"
-        weight = 20
+        weight = 2
 
     [[menu.main]]
         name = "Blog Posts"
         url = "posts/"
-        weight = 30
+        weight = 3
 
     [[menu.main]]
         name = "Resume"
         url = "resume.pdf"
-        weight = 40
+        weight = 4
 

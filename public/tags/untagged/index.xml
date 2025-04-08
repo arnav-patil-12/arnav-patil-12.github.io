@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>CHANGE ME</copyright>
-    <lastBuildDate>Sun, 18 Aug 2024 19:29:10 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:49:31 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Year Fall Course Rankings</title>
+      <link>http://localhost:1313/posts/second-year-fall/</link>
+      <pubDate>Fri, 03 Jan 2025 08:49:31 -0700</pubDate>
+      <guid>http://localhost:1313/posts/second-year-fall/</guid>
+      <description>I want to continue what I started with the first blog post on discussing first-year courses.&#xA;1st: ECE241 My Review You learn a lot of content but don&amp;rsquo;t dive too deep into it; if you&amp;rsquo;re especially interested in something, you need to learn it on your own. Labs are quite fun, if not the greatest olfactory experience. They reflect lecture content and teach out about digital hardware design/verification. As daunting as the project seems, much of the stress/pressure is what students bring on themselves; the instructors&amp;rsquo; expectations for the project are significantly lower than what I thought they&amp;rsquo;d be.</description>
+    </item>
     <item>
       <title>First-Year Engineering Calendar (Arnav&#39;s Version)</title>
       <link>http://localhost:1313/posts/first-year/</link>
