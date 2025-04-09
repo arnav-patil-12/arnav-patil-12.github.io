@@ -1,5 +1,5 @@
 +++
-title = 'Year Two'
+title = 'Second Year'
 date = 2025-04-08T18:13:28-04:00
 draft = false
 +++
@@ -39,6 +39,8 @@ Notes (if available) will be uploaded after the end of the semester
 ### ECE212: Circuit Analysis
 
 ### ECE216: Signals and Systems
+
+[Textbook Notes](/files/secondyear/ece216.pdf)
 
 ### ECE221: Electric & Magnetic Fields
 
