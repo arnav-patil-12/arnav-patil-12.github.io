@@ -48,4 +48,6 @@ Notes (if available) will be uploaded after the end of the semester
 
 ### ECE243: Computer Organization
 
+[Processor Design Lecture Notes](/files/secondyear/ece243.pdf) -- I have omitted all of my notes on the NIOS-V portion of the course as I see no point in uploading those; the processors (and assembly language) in use may vary from year to year.
+
 ### ECE297: Software Design and Communication - (no notes)
