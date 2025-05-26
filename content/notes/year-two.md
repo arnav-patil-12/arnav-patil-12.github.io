@@ -55,6 +55,7 @@ Notes (if available) will be uploaded after the end of the semester
 
 # Summer 
 
-### JRE410: Marketing and Competitive Strategy (coming soon!)
+### JRE410: Marketing and Competitive Strategy (TEMPORARY NOTES)
+[Lecture Notes](/files/secondyear/jre410.pdf)
 
-### TEP444: Positive Psychology for Engineers (no notes (maybe))
+<!-- ### TEP444: Positive Psychology for Engineers (no notes (maybe)) -->
