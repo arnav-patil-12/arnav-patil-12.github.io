@@ -55,12 +55,12 @@ expiryDate = ["expiryDate"]
 
 [menu]
     [[menu.main]]
-        name = "About Me"
+        name = "About"
         url = "about/"
         weight = 1
 
     [[menu.main]]
-        name = "Course Notes"
+        name = "Notes"
         url = "notes/"
         weight = 2
 

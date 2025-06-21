@@ -4,7 +4,7 @@ date = 2025-04-04T18:36:41-06:00
 draft = false
 +++
 
-On this website, I've curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out (contact info at top right).
+On this website, I've curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out (contact info at top right). If a course is missing, I do not have notes available to share for it. 
 
 # Fall
 
@@ -16,19 +16,11 @@ On this website, I've curated a collection of course notes. I hope you find them
 
 [Lecture Notes + Textbook Excerpts](/files/firstyear/aps111.pdf)
 
-### CIV100: Mechanics - (no notes)
-
-### MAT186: Calculus I - (no notes)
-
 ### MAT188: Linear Algebra
 
 [Lecture Readings Notes](/files/firstyear/mat188.pdf)
 
 # Winter
-
-### APS105: Computer Fundamentals
-
-[Textbook Notes + Lecture Excerpts](/files/firstyear/aps105.pdf)
 
 ### APS106: Fundamentals of Computer Programming
 
@@ -53,3 +45,9 @@ On this website, I've curated a collection of course notes. I hope you find them
 [Textbook Notes](/files/firstyear/mie100.pdf)
 
 [Formula Sheet](/files/firstyear/mie100formulae.pdf)
+
+# Summer
+
+### APS105: Computer Fundamentals
+
+[Textbook Notes + Lecture Excerpts](/files/firstyear/aps105.pdf)
