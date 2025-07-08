@@ -8,6 +8,6 @@ On this website, I've curated a collection of course notes. I hope you find them
 
 # [First Year](/notes/year-one/) 
 
-# [Second Year](/notes/year-two) 
+# [Second Year](/notes/year-two/) 
 
-# [Third Year](/notes/year-three)
+# [Third Year](/notes/year-three/)
