@@ -7,21 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>CHANGE ME</copyright>
-    <lastBuildDate>Fri, 03 Jan 2025 08:49:31 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Year Fall Course Rankings</title>
-      <link>http://localhost:1313/posts/second-year-fall/</link>
-      <pubDate>Fri, 03 Jan 2025 08:49:31 -0700</pubDate>
-      <guid>http://localhost:1313/posts/second-year-fall/</guid>
-      <description>I want to continue what I started with the first blog post on discussing first-year courses.&#xA;1st: ECE241 My Review You learn a lot of content but don&amp;rsquo;t dive too deep into it; if you&amp;rsquo;re especially interested in something, you need to learn it on your own. Labs are quite fun, if not the greatest olfactory experience. They reflect lecture content and teach out about digital hardware design/verification. As daunting as the project seems, much of the stress/pressure is what students bring on themselves; the instructors&amp;rsquo; expectations for the project are significantly lower than what I thought they&amp;rsquo;d be.</description>
+      <title>Second Year Courses &#43; Tips</title>
+      <link>http://localhost:1313/posts/second-year/</link>
+      <pubDate>Tue, 08 Jul 2025 12:41:58 -0400</pubDate>
+      <guid>http://localhost:1313/posts/second-year/</guid>
+      <description>I receive a lot of DMs asking me to give feedback on second-year ECE courses, so here I&amp;rsquo;ve provided the class average of each course and my best piece of advice for success in the course.&#xA;Fall Semester APS100: Orientation to Engineering Get to know your TA and listen when they talk about their experiences, they were once in your shoes and have valuable advice for how to make the best of your student experience, whether it comes to careers, clubs, or school-life balance.</description>
     </item>
     <item>
-      <title>First-Year Engineering Calendar (Arnav&#39;s Version)</title>
+      <title>First Year Courses &#43; Tips</title>
       <link>http://localhost:1313/posts/first-year/</link>
       <pubDate>Sun, 18 Aug 2024 19:29:10 -0600</pubDate>
       <guid>http://localhost:1313/posts/first-year/</guid>
-      <description>As I&amp;rsquo;ve received a lot of DMs from incoming Frosh on Discord and LinkedIn asking me to give feedback on first-year courses, I&amp;rsquo;ve decided to provide my advice for each course.&#xA;Fall Semester APS100: Orientation to Engineering Grading for assignments is abritrary and harsh &amp;ndash; so don&amp;rsquo;t skip tutorials (you might need the tutorial grades). Get to know your TA and listen when they talk about their experiences. Make note of the resources they provide &amp;ndash; even though the lecture delivery is questionable, you might find yourself needing the resources.</description>
+      <description>I receive a lot of DMs asking me to give feedback on first-year engineering courses, so here I&amp;rsquo;ve provided the class average of each course and my best piece of advice for success in the course.&#xA;Fall Semester APS100: Orientation to Engineering (H/P/F) Get to know your TA and listen when they talk about their experiences, they were once in your shoes and have valuable advice for how to make the best of your student experience, whether it comes to careers, clubs, or school-life balance.</description>
     </item>
   </channel>
 </rss>

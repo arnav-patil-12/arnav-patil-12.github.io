@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-08T18:13:28-04:00</lastmod>
+    <lastmod>2025-07-08T12:41:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-08T12:41:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/second-year/</loc>
+    <lastmod>2025-07-08T12:41:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-08T12:41:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/untagged/</loc>
+    <lastmod>2025-07-08T12:41:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/year-three/</loc>
+    <lastmod>2025-07-08T12:23:25-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/year-two/</loc>
     <lastmod>2025-04-08T18:13:28-04:00</lastmod>
@@ -11,8 +26,8 @@
     <loc>http://localhost:1313/notes/year-one/</loc>
     <lastmod>2025-04-04T18:36:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-03T08:49:31-07:00</lastmod>
+    <loc>http://localhost:1313/posts/first-year/</loc>
+    <lastmod>2024-08-18T19:29:10-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-07-03T18:39:57-06:00</lastmod>
@@ -21,7 +36,5 @@
     <lastmod>2024-07-03T18:36:41-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

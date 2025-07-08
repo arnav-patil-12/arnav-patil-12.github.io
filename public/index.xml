@@ -4,38 +4,59 @@
     <title>Arnav Patil</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Arnav Patil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>CHANGE ME</copyright>
-    <lastBuildDate>Tue, 08 Apr 2025 18:13:28 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Year Courses &#43; Tips</title>
+      <link>http://localhost:1313/posts/second-year/</link>
+      <pubDate>Tue, 08 Jul 2025 12:41:58 -0400</pubDate>
+      <guid>http://localhost:1313/posts/second-year/</guid>
+      <description>I receive a lot of DMs asking me to give feedback on second-year ECE courses, so here I&amp;rsquo;ve provided the class average of each course and my best piece of advice for success in the course.&#xA;Fall Semester APS100: Orientation to Engineering Get to know your TA and listen when they talk about their experiences, they were once in your shoes and have valuable advice for how to make the best of your student experience, whether it comes to careers, clubs, or school-life balance.</description>
+    </item>
+    <item>
+      <title>Third Year</title>
+      <link>http://localhost:1313/notes/year-three/</link>
+      <pubDate>Tue, 08 Jul 2025 12:23:25 -0400</pubDate>
+      <guid>http://localhost:1313/notes/year-three/</guid>
+      <description>(Courses are subject to change)&#xA;Fall ECE331: Analog Electronics ECE334: Digital Electronics ECE344: Operating Systems ECE552: Computer Architecture Winter ECE302: Probability and Applications ECE342: Computer Hardware ECE345: Algorithms and Data Structures ECE472: Engineering Economic Analysis &amp;amp; Entrepreneurship </description>
+    </item>
     <item>
       <title>Second Year</title>
       <link>http://localhost:1313/notes/year-two/</link>
       <pubDate>Tue, 08 Apr 2025 18:13:28 -0400</pubDate>
       <guid>http://localhost:1313/notes/year-two/</guid>
-      <description>On this website, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out (contact info at top right).&#xA;Fall ECE231: Introductory Electronics Textbook Notes (Note: Chapter 3 on semiconductors is missing from these notes, but this unit is not heavily emphasized at all)&#xA;ECE241: Digital Systems - (no notes) ECE244: Programming Fundamentals Textbook Notes</description>
+      <description>Fall ECE231: Introductory Electronics Textbook Notes (Chapter 3 on semiconductors missing)&#xA;ECE244: Programming Fundamentals Textbook Notes&#xA;MAT290: Advanced Engineering Mathematics Combined Textbook Notes&#xA;Individual Chapter Notes&#xA;MAT291: Introduction to Mathematical Physics Combined Textbook + Lecture Notes&#xA;Individual Chapter Notes&#xA;Winter ECE212: Circuit Analysis Textbook Notes (Very Rough)&#xA;Formula Sheet&#xA;ECE216: Signals and Systems Textbook Notes (Very Rough)&#xA;ECE221: Electric &amp;amp; Magnetic Fields Textbook Notes (Very Rough)&#xA;ECE243: Computer Organization Processor Design Lecture Notes &amp;ndash; I have omitted all of my notes on the NIOS-V portion of the course.</description>
     </item>
     <item>
       <title>First Year</title>
       <link>http://localhost:1313/notes/year-one/</link>
       <pubDate>Fri, 04 Apr 2025 18:36:41 -0600</pubDate>
       <guid>http://localhost:1313/notes/year-one/</guid>
-      <description>On this website, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out (contact info at top right).&#xA;Fall APS110: Engineering Chemistry and Materials Science Textbook Notes + Lecture Excerpts&#xA;APS111: Engineering Strategies and Practice I Lecture Notes + Textbook Excerpts&#xA;CIV100: Mechanics - (no notes) MAT186: Calculus I - (no notes) MAT188: Linear Algebra Lecture Readings Notes</description>
+      <description>Fall APS110: Engineering Chemistry and Materials Science Textbook Notes + Lecture Excerpts&#xA;APS111: Engineering Strategies and Practice I Lecture Notes + Textbook Excerpts&#xA;MAT188: Linear Algebra Lecture Readings Notes&#xA;Winter APS106: Fundamentals of Computer Programming Textbook Notes&#xA;APS112: Engineering Strategies and Practice II Lecture Notes + Textbook Excerpts&#xA;ECE110: Electrical Fundamentals Lecture Notes and Textbook Notes&#xA;Formula Sheet&#xA;MAT187: Calculus II Lecture Readings Notes&#xA;MIE100: Dynamics Textbook Notes&#xA;Formula Sheet</description>
+    </item>
+    <item>
+      <title>First Year Courses &#43; Tips</title>
+      <link>http://localhost:1313/posts/first-year/</link>
+      <pubDate>Sun, 18 Aug 2024 19:29:10 -0600</pubDate>
+      <guid>http://localhost:1313/posts/first-year/</guid>
+      <description>I receive a lot of DMs asking me to give feedback on first-year engineering courses, so here I&amp;rsquo;ve provided the class average of each course and my best piece of advice for success in the course.&#xA;Fall Semester APS100: Orientation to Engineering (H/P/F) Get to know your TA and listen when they talk about their experiences, they were once in your shoes and have valuable advice for how to make the best of your student experience, whether it comes to careers, clubs, or school-life balance.</description>
     </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 03 Jul 2024 18:39:57 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I’m a second-year student studying Electrical and Computer Engineering (ECE) at the University of Toronto. My interests lie in computer hardware and digital electronics (FPGAs/ASICs) for use in AIML.&#xA;This summer, I&amp;rsquo;ll be joining Prof. Roman Genov&amp;rsquo;s Intelligent Sensory Microsystems Lab (ISML) as an FPGA Research Intern! I’ll be working on high-speed digital design for next-generation 3D imaging systems. My role entails FPGA-controlled laser modulation and real-time synchronization for Epipolar Time-of-Flight imaging, blending hardware design, signal processing, and system-level integration to bring new innovations in imaging technology.</description>
+      <description>I’m studying Electrical and Computer Engineering (ECE) at the University of Toronto. My interests lie in FPGA engineering and digital/mixed-signal design.&#xA;This summer, I&amp;rsquo;m working at Prof. Roman Genov&amp;rsquo;s Intelligent Sensory Microsystems Lab (ISML) as an FPGA Research Intern.</description>
     </item>
     <item>
       <title>Course Notes</title>
       <link>http://localhost:1313/notes/</link>
       <pubDate>Wed, 03 Jul 2024 18:36:41 -0600</pubDate>
       <guid>http://localhost:1313/notes/</guid>
-      <description>On this website, I&amp;rsquo;ve curated a collection of course notes. I hope you find them as helpful as I did! If you have any questions or feedback, feel free to reach out (contact info at top right).&#xA;First Year Second Year The view from my favourite study spot: Robarts 12th Floor! Added cause why not </description>
+      <description>On this website, I&amp;rsquo;ve curated a collection of my course notes. If you have any questions or feedback, feel free to reach out (contact info at top right). If a course is missing, I do not have notes available to share for it.&#xA;First Year Second Year Third Year </description>
     </item>
   </channel>
 </rss>

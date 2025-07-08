@@ -4,9 +4,17 @@
     <title>Tags on Arnav Patil</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Arnav Patil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>CHANGE ME</copyright>
+    <lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Untagged</title>
+      <link>http://localhost:1313/tags/untagged/</link>
+      <pubDate>Tue, 08 Jul 2025 12:41:58 -0400</pubDate>
+      <guid>http://localhost:1313/tags/untagged/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
