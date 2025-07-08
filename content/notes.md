@@ -10,6 +10,4 @@ On this website, I've curated a collection of course notes. I hope you find them
 
 # [Second Year](/notes/year-two) 
 
-The view from my favourite study spot: Robarts 12th Floor! Added cause why not 
-![View from my favourite study spot](/images/prison.jpeg)
-
+# [Third Year](/notes/year-three)
