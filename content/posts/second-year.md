@@ -47,4 +47,4 @@ I receive a lot of DMs asking me to give feedback on second-year ECE courses, so
 # Summer Semester
 
 ### JRE410: Markets and Competitive Strategy
-- ngl i barely have any marks back so i cant even tell you how i did. come back later.
+- Tutorial grades are worth a lot, so be sure to read up on the cases and have good answers prepared in advance of the tutorial.
