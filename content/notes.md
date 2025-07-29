@@ -10,5 +10,5 @@ On this website, I've curated a collection of my course notes. If you have any q
 
 # [Second Year](/notes/year-two/) 
 
-# [Third Year](/notes/)
+# [Third Year](/notes/year-three/)
 Site will be made public later as I'm still tweaking my schedule.
