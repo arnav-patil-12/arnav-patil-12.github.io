@@ -4,7 +4,7 @@
     <title>Arnav Patil</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Arnav Patil</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CHANGE ME</copyright>
     <lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
@@ -21,7 +21,7 @@
       <link>http://localhost:1313/notes/year-three/</link>
       <pubDate>Tue, 08 Jul 2025 12:23:25 -0400</pubDate>
       <guid>http://localhost:1313/notes/year-three/</guid>
-      <description>(Courses are subject to change)&#xA;Fall ECE331: Analog Electronics ECE334: Digital Electronics ECE344: Operating Systems ECE552: Computer Architecture Winter ECE302: Probability and Applications ECE342: Computer Hardware ECE345: Algorithms and Data Structures ECE472: Engineering Economic Analysis &amp;amp; Entrepreneurship </description>
+      <description>(Courses are subject to change)&#xA;Fall ECE331: Analog Electronics ECE334: Digital Electronics ECE344: Operating Systems ECE552: Computer Architecture Winter ECE302: Probability and Applications ECE342: Computer Hardware ECE345: Algorithms and Data Structures ECE472: Engineering Economic Analysis &amp;amp; Entrepreneurship JRE420: People Management and Organizational Behaviour </description>
     </item>
     <item>
       <title>Second Year</title>
@@ -49,7 +49,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 03 Jul 2024 18:39:57 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I’m studying Electrical and Computer Engineering (ECE) at the University of Toronto. My interests lie in FPGA engineering and digital/mixed-signal design.&#xA;This summer, I&amp;rsquo;m working at Prof. Roman Genov&amp;rsquo;s Intelligent Sensory Microsystems Lab (ISML) as an FPGA Research Intern.</description>
+      <description>I’m studying electrical and computer engineering (ECE) at the University of Toronto. My interests lie in FPGA engineering and digital/mixed-signal design.&#xA;This summer, I&amp;rsquo;m working at Professor Roman Genov&amp;rsquo;s Intelligent Sensory Microsystems Lab (ISML) as an FPGA Research Intern. I&amp;rsquo;m working on mixed-signal/digital design and verification.</description>
     </item>
     <item>
       <title>Course Notes</title>

@@ -25,3 +25,5 @@ draft = false
 ### ECE345: Algorithms and Data Structures
 
 ### ECE472: Engineering Economic Analysis & Entrepreneurship
+
+### JRE420: People Management and Organizational Behaviour
