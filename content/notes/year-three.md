@@ -14,7 +14,9 @@ draft = false
 
 ### ECE344: Operating Systems
 
-### ECE552: Computer Architecture 
+### ECE552: Computer Architecture
+
+### ECO101: Principles of Microeconomics
 
 # Winter
 
