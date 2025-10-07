@@ -13,6 +13,7 @@ draft = false
 ### ECE334: Digital Electronics
 
 ### ECE344: Operating Systems
+[Lecture Notes (up to midterm only)](/files/thirdyear/ece344.pdf)
 
 ### ECE552: Computer Architecture
 
