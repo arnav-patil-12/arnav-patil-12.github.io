@@ -16,6 +16,7 @@ draft = false
 [Lecture Notes (up to midterm only)](/files/thirdyear/ece344.pdf)
 
 ### ECE552: Computer Architecture
+[Lecture Notes (up to midterm only)](/files/thirdyear/ece552.pdf)
 
 ### ECO101: Principles of Microeconomics
 
@@ -25,7 +26,7 @@ draft = false
 
 ### ECE342: Computer Hardware
 
-### ECE345: Algorithms and Data Structures
+### ECE361: Computer Networks I
 
 ### ECE472: Engineering Economic Analysis & Entrepreneurship
 
