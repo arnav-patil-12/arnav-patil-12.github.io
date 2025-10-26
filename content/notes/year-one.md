@@ -4,7 +4,7 @@ date = 2025-04-04T18:36:41-06:00
 draft = false
 +++
 
-# Fall
+## Fall
 
 ### APS110: Engineering Chemistry and Materials Science
 
@@ -18,7 +18,7 @@ draft = false
 
 [Lecture Readings Notes](/files/firstyear/mat188.pdf)
 
-# Winter
+## Winter
 
 ### APS106: Fundamentals of Computer Programming
 
@@ -44,7 +44,7 @@ draft = false
 
 [Formula Sheet](/files/firstyear/mie100formulae.pdf)
 
-# Summer
+## Summer
 
 ### APS105: Computer Fundamentals
 

@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'en-ca'
 title = 'Arnav Patil'
 theme = 'hermit-v2'
 

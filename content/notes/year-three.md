@@ -4,9 +4,9 @@ date = 2025-07-08T12:23:25-04:00
 draft = false
 +++
 
-(Courses are subject to change)
+Winter courses are subject to change.
 
-# Fall
+##  Fall
 
 ### ECE331: Analog Electronics
 
@@ -20,7 +20,7 @@ draft = false
 
 ### ECO101: Principles of Microeconomics
 
-# Winter
+## Winter
 
 ### ECE302: Probability and Applications
 

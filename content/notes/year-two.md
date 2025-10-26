@@ -4,7 +4,7 @@ date = 2025-04-08T18:13:28-04:00
 draft = false
 +++ 
 
-# Fall
+## Fall
 
 ### ECE231: Introductory Electronics
 
@@ -18,15 +18,11 @@ draft = false
 
 [Combined Textbook Notes](/files/secondyear/mat290.pdf)
 
-[Individual Chapter Notes](https://github.com/arnav-patil-12/mat290-notes)
-
 ### MAT291: Introduction to Mathematical Physics 
 
 [Combined Textbook + Lecture Notes](/files/secondyear/mat291.pdf)
 
-[Individual Chapter Notes](https://github.com/arnav-patil-12/mat291-notes)
-
-# Winter
+## Winter
 
 ### ECE212: Circuit Analysis
 [Textbook Notes (Very Rough)](/files/secondyear/ece212.pdf)
@@ -43,10 +39,9 @@ draft = false
 
 ### ECE243: Computer Organization
 
-[Processor Design Lecture Notes](/files/secondyear/ece243.pdf) -- I have omitted all of my notes on the NIOS-V portion of the course.
+[Processor Design Lecture Notes](/files/secondyear/ece243.pdf)
 
-# Summer 
+## Summer 
 
 ### JRE410: Marketing and Competitive Strategy
 [Lecture Notes](/files/secondyear/jre410.pdf)
-

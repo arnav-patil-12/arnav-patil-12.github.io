@@ -4,7 +4,9 @@ date = 2024-07-03T18:36:41-06:00
 draft = false
 +++
 
-On this website, I've curated a collection of my course notes. If you have any questions or feedback, feel free to reach out (contact info at top right). If a course is missing, I do not have notes available to share for it. 
+I've curated a collection of my course notes on this page. If a course is missing, there are no notes available. 
+
+**Note:** These notes are not meant to serve as a complete study guide; they are meant to provide a preview into the course content.  
 
 # [First Year](/notes/year-one/) 
 
