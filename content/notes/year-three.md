@@ -9,14 +9,15 @@ Winter courses are subject to change.
 ##  Fall
 
 ### ECE331: Analog Electronics
+[Lecture Notes (up to Term Test 1)](/files/thirdyear/ece331.pdf)
 
 ### ECE334: Digital Electronics
 
 ### ECE344: Operating Systems
-[Lecture Notes (up to midterm only)](/files/thirdyear/ece344.pdf)
+[Lecture Notes (up to Reading Week)](/files/thirdyear/ece344.pdf)
 
 ### ECE552: Computer Architecture
-[Lecture Notes (up to midterm only)](/files/thirdyear/ece552.pdf)
+[Lecture Notes (up to Reading Week)](/files/thirdyear/ece552.pdf)
 
 ### ECO101: Principles of Microeconomics
 
