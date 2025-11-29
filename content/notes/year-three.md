@@ -23,11 +23,11 @@ Winter courses are subject to change.
 
 ## Winter
 
+### APS360: Applied Fundamentals of Deep Learning
+
 ### ECE302: Probability and Applications
 
 ### ECE342: Computer Hardware
-
-### ECE361: Computer Networks I
 
 ### ECE472: Engineering Economic Analysis & Entrepreneurship
 
