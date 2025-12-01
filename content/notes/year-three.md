@@ -4,31 +4,20 @@ date = 2025-07-08T12:23:25-04:00
 draft = false
 +++
 
-Winter courses are subject to change.
+Winter course schedule still in play, so courses will be posted later.
 
 ##  Fall
 
 ### ECE331: Analog Electronics
-[Lecture Notes (up to Term Test 1)](/files/thirdyear/ece331.pdf)
+<!-- [Lecture Notes (up to Term Test 1)](/files/thirdyear/ece331.pdf) -->
 
 ### ECE334: Digital Electronics
 
 ### ECE344: Operating Systems
-[Lecture Notes (up to Reading Week)](/files/thirdyear/ece344.pdf)
+[Lecture Notes (final)](/files/thirdyear/ece344.pdf)
 
 ### ECE552: Computer Architecture
-[Lecture Notes (up to Reading Week)](/files/thirdyear/ece552.pdf)
+[Lecture Notes (incomplete)](/files/thirdyear/ece552.pdf)
 
 ### ECO101: Principles of Microeconomics
 
-## Winter
-
-### APS360: Applied Fundamentals of Deep Learning
-
-### ECE302: Probability and Applications
-
-### ECE342: Computer Hardware
-
-### ECE472: Engineering Economic Analysis & Entrepreneurship
-
-### JRE420: People Management and Organizational Behaviour
