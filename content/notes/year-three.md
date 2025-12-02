@@ -17,7 +17,7 @@ Winter course schedule still in play, so courses will be posted later.
 [Lecture Notes (final)](/files/thirdyear/ece344.pdf)
 
 ### ECE552: Computer Architecture
-[Lecture Notes (incomplete)](/files/thirdyear/ece552.pdf)
+[Lecture Notes (final)](/files/thirdyear/ece552.pdf)
 
 ### ECO101: Principles of Microeconomics
 
