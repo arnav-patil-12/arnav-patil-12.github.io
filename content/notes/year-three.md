@@ -9,7 +9,6 @@ Winter course schedule still in play, so courses will be posted later.
 ##  Fall
 
 ### ECE331: Analog Electronics
-<!-- [Lecture Notes (up to Term Test 1)](/files/thirdyear/ece331.pdf) -->
 
 ### ECE334: Digital Electronics
 
@@ -21,3 +20,14 @@ Winter course schedule still in play, so courses will be posted later.
 
 ### ECO101: Principles of Microeconomics
 
+## Winter
+
+### APS360: Fundamentals of Deep Learning
+
+### ECE302: Probability and Applications
+
+### ECE342: Computer Hardware
+
+### ECE472: Engineering Economic Analysis and Entrepreneurship
+
+### JRE420: People Management and Organizational Behaviour 
