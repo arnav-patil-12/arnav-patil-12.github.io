@@ -11,13 +11,13 @@ Winter course schedule still in play, so courses will be posted later.
 ### ECE331: Analog Electronics
 
 ### ECE334: Digital Electronics
-[Lecture Notes (final)](/files/thirdyear/ece334.pdf)
+[Lecture Notes](https://drive.google.com/file/d/1HxJ9PHl6FRV1Nx1eo1CPJA5KKxbq96Vl/view?usp=sharing) -- shared on Drive as the PDF is too big
 
 ### ECE344: Operating Systems
-[Lecture Notes (final)](/files/thirdyear/ece344.pdf)
+[Lecture Notes](/files/thirdyear/ece344.pdf)
 
 ### ECE552: Computer Architecture
-[Lecture Notes (final)](/files/thirdyear/ece552.pdf)
+[Lecture Notes](/files/thirdyear/ece552.pdf)
 
 ### ECO101: Principles of Microeconomics
 
