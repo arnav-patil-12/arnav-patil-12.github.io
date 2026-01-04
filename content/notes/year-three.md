@@ -11,6 +11,7 @@ Winter course schedule still in play, so courses will be posted later.
 ### ECE331: Analog Electronics
 
 ### ECE334: Digital Electronics
+[Lecture Notes (final)](/files/thirdyear/ece334.pdf)
 
 ### ECE344: Operating Systems
 [Lecture Notes (final)](/files/thirdyear/ece344.pdf)
