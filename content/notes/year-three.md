@@ -30,5 +30,4 @@ Winter course schedule still in play, so courses will be posted later.
 ### ECE342: Computer Hardware
 
 ### ECE472: Engineering Economic Analysis and Entrepreneurship
-
-### JRE420: People Management and Organizational Behaviour 
+ 
