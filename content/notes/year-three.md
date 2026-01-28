@@ -4,14 +4,12 @@ date = 2025-07-08T12:23:25-04:00
 draft = false
 +++
 
-Winter course schedule still in play, so courses will be posted later.
-
 ##  Fall
 
 ### ECE331: Analog Electronics
 
 ### ECE334: Digital Electronics
-[Lecture Notes](https://drive.google.com/file/d/1HxJ9PHl6FRV1Nx1eo1CPJA5KKxbq96Vl/view?usp=sharing) -- shared on Drive as the PDF is too big
+[Lecture Notes](https://drive.google.com/file/d/1HxJ9PHl6FRV1Nx1eo1CPJA5KKxbq96Vl/view?usp=sharing)
 
 ### ECE344: Operating Systems
 [Lecture Notes](/files/thirdyear/ece344.pdf)
@@ -24,6 +22,8 @@ Winter course schedule still in play, so courses will be posted later.
 ## Winter
 
 ### APS360: Fundamentals of Deep Learning
+
+### APS420: Technology, Engineering, and Global Development
 
 ### ECE302: Probability and Applications
 
