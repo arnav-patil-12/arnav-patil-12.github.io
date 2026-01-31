@@ -26,6 +26,7 @@ draft = false
 ### APS420: Technology, Engineering, and Global Development
 
 ### ECE302: Probability and Applications
+[Lecture Notes](/files/thirdyear/ece302.pdf)
 
 ### ECE342: Computer Hardware
 
