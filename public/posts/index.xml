@@ -1,136 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on Arnav Patil</title>
-		<link>http://localhost:1313/posts/</link>
-		<description>Recent content in Posts on Arnav Patil</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-ca</language>
-		<copyright>CHANGE ME</copyright>
-		<lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
-		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Second Year Courses &#43; Tips</title>
-			<link>http://localhost:1313/posts/second-year/</link>
-			<pubDate>Tue, 08 Jul 2025 12:41:58 -0400</pubDate>
-			
-			<guid>http://localhost:1313/posts/second-year/</guid>
-			<description><![CDATA[%!s(<nil>)]]></description>
-			<content type="html"><![CDATA[<p>I receive a lot of DMs asking me to give feedback on second-year ECE courses, so here I&rsquo;ve provided the class average of each course and my best piece of advice for success in the course.</p>
-<h1 id="fall-semester">Fall Semester</h1>
-<h3 id="ece231-introductory-electronics-c">ECE231: Introductory Electronics (C+)</h3>
-<ul>
-<li>Don&rsquo;t try to memorize the circuit types and different types of problems, make sure you understand why they work the way they do.</li>
-</ul>
-<h3 id="ece241-digital-systems-c">ECE241: Digital Systems (C+)</h3>
-<ul>
-<li>Practice your Boolean Algebra, it makes up a large portion of your midterm (which again is a large portion of your grade). Make sure to cook your final project, as having something eye-catching can make your resume stronger, and get you more interviews (and offers &#x1f440;)</li>
-</ul>
-<h3 id="ece244-programming-fundamentals-b-">ECE244: Programming Fundamentals (B-)</h3>
-<ul>
-<li>Turn off your brain when doing the labs, don&rsquo;t think hard (ideally don&rsquo;t think at all). Follow the lab instructions to the tee, and you&rsquo;ll cover 95% of corner cases as well.</li>
-</ul>
-<h3 id="mat290-advanced-engineering-mathematics-b-">MAT290: Advanced Engineering Mathematics (B-)</h3>
-<ul>
-<li>The math is very difficult, and it&rsquo;s important to keep up because of the weekly quizzes, but try to understand the bigger picture being painted throughout the course. Keep an open mind and you&rsquo;ll learn a lot about the history and elegance of math!</li>
-</ul>
-<h3 id="mat291-introduction-to-mathematical-physics-b-">MAT291: Introduction to Mathematical Physics (B-)</h3>
-<ul>
-<li>Keep up even as the course speeds up, because understanding the latter part of the course is critical to your success in ECE221.</li>
-</ul>
-<h1 id="winter-semester">Winter Semester</h1>
-<h3 id="ece212-circuit-analysis-b">ECE212: Circuit Analysis (B)</h3>
-<ul>
-<li>This is your third circuit course, so PLEASE make sure you know how to use the lab equipment by now. Also, use the textbook to pactice a lot, as it will expose you to a variety of problems.</li>
-</ul>
-<h3 id="ece216-signals-and-systems-c">ECE216: Signals and Systems (C+)</h3>
-<ul>
-<li>The math in the course, while complex, is kept simple by limiting what you have to solve on midterms and the final. However, make sure you understand the theory (the how and the why).</li>
-</ul>
-<h3 id="ece221-electric-and-magnetic-fields-c">ECE221: Electric and Magnetic Fields (C+)</h3>
-<ul>
-<li>Do not neglect the physics portion of the course and focus only on the math. Also, try not to screw up the pre-lab quizzes as those count for a fair portion of your grade.</li>
-</ul>
-<h3 id="ece243-computer-organization-b">ECE243: Computer Organization (B)</h3>
-<ul>
-<li>Cook your final project for the clout (and bonus marks &#x1f440;) but also for your resume! While most people end up doing simple games or apps, integrating hardware into your project adds some embedded programming experience.</li>
-</ul>
-<h3 id="ece297-software-design-and-communication-b">ECE297: Software Design and Communication (B+)</h3>
-<ul>
-<li>The effort applied vs. earned marks in this course has diminishing returns, so while it&rsquo;s not a good idea to forget about the course entirely, it&rsquo;s not worth sweating too hard.</li>
-</ul>
-<h1 id="summer-semester">Summer Semester</h1>
-<h3 id="jre410-markets-and-competitive-strategy">JRE410: Markets and Competitive Strategy</h3>
-<ul>
-<li>Tutorial grades are worth a lot, so be sure to read up on the cases and have good answers prepared in advance of the tutorial.</li>
-</ul>
-]]></content>
-		</item>
-		
-		<item>
-			<title>First Year Courses &#43; Tips</title>
-			<link>http://localhost:1313/posts/first-year/</link>
-			<pubDate>Sun, 18 Aug 2024 19:29:10 -0600</pubDate>
-			
-			<guid>http://localhost:1313/posts/first-year/</guid>
-			<description><![CDATA[%!s(<nil>)]]></description>
-			<content type="html"><![CDATA[<p>I receive a lot of DMs asking me to give feedback on first-year engineering courses, so here I&rsquo;ve provided the class average of each course and my best piece of advice for success in the course.</p>
-<h1 id="fall-semester">Fall Semester</h1>
-<h3 id="aps100-orientation-to-engineering-hpf">APS100: Orientation to Engineering (H/P/F)</h3>
-<ul>
-<li>Get to know your TA and listen when they talk about their experiences, they were once in your shoes and have valuable advice for how to make the best of your student experience, whether it comes to careers, clubs, or school-life balance.</li>
-</ul>
-<h3 id="aps110-engineering-chemistry-and-materials-science-b-">APS110: Engineering Chemistry and Materials Science (B-)</h3>
-<ul>
-<li>The course follows the textbook very closely, so make sure to take very good textbook notes (don&rsquo;t forget the questions!) then add extra content based on lecture discussions.</li>
-</ul>
-<h3 id="aps111-engineering-strategies-and-practice-i-b">APS111: Engineering Strategies and Practice I (B)</h3>
-<ul>
-<li>The readings, while tedious, are very applicable to real life, from clubs to industry roles. Also, make sure yo use every opportunity to earn the extra PD points!</li>
-</ul>
-<h3 id="civ100-mechanics-c">CIV100: Mechanics (C+)</h3>
-<ul>
-<li>If you like this course, good for you, but if you&rsquo;re indifferent (or miserable), then do your best to pass and move on with your life. Practice, practice, practice!</li>
-</ul>
-<h3 id="mat186-calculus-i-c">MAT186: Calculus I (C)</h3>
-<ul>
-<li>A lot of people underestimate this course because they have covered the content in high school, but beware that this is a completely different ball game, so make sure that you understand the fundamentals.</li>
-</ul>
-<h3 id="mat188-linear-algebra-b-">MAT188: Linear Algebra (B-)</h3>
-<ul>
-<li>Practice, practice, practice!!! Make sure you understand the concepts very well.</li>
-</ul>
-<h1 id="winter-semester">Winter Semester</h1>
-<h3 id="aps105-computer-fundamentals-b">APS105: Computer Fundamentals (B)</h3>
-<ul>
-<li>C has a lot of neat quirks that makes it powerful but also requires memorization and an understanding of why low-level programming works the way it does, so pay attention to the little details.</li>
-</ul>
-<h3 id="aps106-fundamentals-of-computer-programming-c">APS106: Fundamentals of Computer Programming (C+)</h3>
-<ul>
-<li>Use the low averages to ride the curve to the top!</li>
-</ul>
-<h3 id="aps112-engineering-strategies-and-practice-ii-b-">APS112: Engineering Strategies and Practice II (B-)</h3>
-<ul>
-<li>As with ESP I, take advantage of the opportunities to add the extra PD points to your grade.</li>
-</ul>
-<h3 id="ece110-electrical-fundamentals-b-">ECE110: Electrical Fundamentals (B-)</h3>
-<ul>
-<li>Go to tutorials and ask as many questions to your TA as you need. Don&rsquo;t bother putting down past questions (or full exams) on your formula sheet, it&rsquo;s a waste of space and the instructors rarely recycle questions.</li>
-</ul>
-<h3 id="mat187-calculus-ii-b-">MAT187: Calculus II (B-)</h3>
-<ul>
-<li>Practice, practice, practice!!!!</li>
-</ul>
-<h3 id="mie100-dynamics-c">MIE100: Dynamics (C+)</h3>
-<ul>
-<li>Don&rsquo;t fall for the &ldquo;MIE is harder than CIV&rdquo; ragebait. Also, practice lots and make sure you understand theory instead of trying to memorize question types.</li>
-</ul>
-<h3 id="mie191-introduction-to-mechanical-and-industrial-engineering-crncr">MIE191: Introduction to Mechanical and Industrial Engineering (CR/NCR)</h3>
-<ul>
-<li>Lectures are optional but very useful! You have the opportunity to learn a lot about careers in your discipline, meet alumni, as well as some professors (who may take on research intens &#x1f440;) Keep in mind, not all 191 courses are structured the same, I can only speak to the MIE version.</li>
-</ul>
-]]></content>
-		</item>
-		
-	</channel>
+  <channel>
+    <title>Posts on Arnav Patil</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Arnav Patil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>CHANGE ME</copyright>
+    <lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Year Courses &#43; Tips</title>
+      <link>http://localhost:1313/posts/second-year/</link>
+      <pubDate>Tue, 08 Jul 2025 12:41:58 -0400</pubDate>
+      <guid>http://localhost:1313/posts/second-year/</guid>
+      <description>I receive a lot of DMs asking me to give feedback on second-year ECE courses, so here I&amp;rsquo;ve provided the class average of each course and my best piece of advice for success in the course.&#xA;Fall Semester ECE231: Introductory Electronics (C+) Don&amp;rsquo;t try to memorize the circuit types and different types of problems, make sure you understand why they work the way they do. ECE241: Digital Systems (C+) Practice your Boolean Algebra, it makes up a large portion of your midterm (which again is a large portion of your grade).</description>
+    </item>
+    <item>
+      <title>First Year Courses &#43; Tips</title>
+      <link>http://localhost:1313/posts/first-year/</link>
+      <pubDate>Sun, 18 Aug 2024 19:29:10 -0600</pubDate>
+      <guid>http://localhost:1313/posts/first-year/</guid>
+      <description>I receive a lot of DMs asking me to give feedback on first-year engineering courses, so here I&amp;rsquo;ve provided the class average of each course and my best piece of advice for success in the course.&#xA;Fall Semester APS100: Orientation to Engineering (H/P/F) Get to know your TA and listen when they talk about their experiences, they were once in your shoes and have valuable advice for how to make the best of your student experience, whether it comes to careers, clubs, or school-life balance.</description>
+    </item>
+  </channel>
 </rss>
