@@ -4,7 +4,7 @@
     <title>Arnav Patil</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Arnav Patil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-ca</language>
     <copyright>CHANGE ME</copyright>
     <lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
@@ -49,7 +49,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 03 Jul 2024 18:39:57 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I&amp;rsquo;m studying Electrical and Computer Engineering at the University of Toronto, where I enjoy working at the intersection of hardware and software, especially computer architecture and digital design. In summer 2025, I interned as an FPGA engineer at Prof. Roman Genov&amp;rsquo;s Intelligent Sensory Microsystems Lab (ISML), refining my Verilog skills and dabbling in digital design. I also have experience with teaching, having been a TA for APS100 Orientation to Engineering in fall 2025.</description>
+      <description>Third year electrical and computer engineering student at UofT.</description>
     </item>
     <item>
       <title>Course Notes</title>
