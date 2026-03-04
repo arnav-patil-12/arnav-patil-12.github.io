@@ -7,9 +7,10 @@ draft = false
 ##  Fall
 
 ### ECE331: Analog Electronics
+Scan pending, coming soon!
 
 ### ECE334: Digital Electronics
-[Lecture Notes](https://drive.google.com/file/d/1HxJ9PHl6FRV1Nx1eo1CPJA5KKxbq96Vl/view?usp=sharing)
+[Lecture Notes](/files/thirdyear/ece334.pdf)
 
 ### ECE344: Operating Systems
 [Lecture Notes](/files/thirdyear/ece344.pdf)
@@ -18,15 +19,17 @@ draft = false
 [Lecture Notes](/files/thirdyear/ece552.pdf)
 
 ### ECO101: Principles of Microeconomics
+[Lecture Notes](/files/thirdyear/eco101.pdf)
 
-## Winter
+## Winter - Any notes are temporary and not final as the semester is ongoing
 
 ### APS360: Fundamentals of Deep Learning
 
 ### APS420: Technology, Engineering, and Global Development
+[Lecture + Readings Notes](/files/thirdyear/aps420.pdf)
 
 ### ECE302: Probability and Applications
-[Lecture Notes](/files/thirdyear/ece302.pdf)
+[Lecture Notes](/files/thirdyear/ece302.pdf) (weeks 1-8)
 
 ### ECE342: Computer Hardware
 
