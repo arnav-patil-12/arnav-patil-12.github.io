@@ -21,7 +21,7 @@ Scan pending, coming soon!
 ### ECO101: Principles of Microeconomics
 [Lecture Notes](/files/thirdyear/eco101.pdf)
 
-## Winter - Any notes are temporary and not final as the semester is ongoing
+## Winter -- still in progress
 
 ### APS360: Fundamentals of Deep Learning
 
