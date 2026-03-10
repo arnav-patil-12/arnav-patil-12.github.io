@@ -10,7 +10,7 @@ draft = false
 Scan pending, coming soon!
 
 ### ECE334: Digital Electronics
-Link broken, working on it!
+[Lecture Notes](https://drive.google.com/file/d/1HxJ9PHl6FRV1Nx1eo1CPJA5KKxbq96Vl/view?usp=share_link)
 
 ### ECE344: Operating Systems
 [Lecture Notes](/files/thirdyear/ece344.pdf)
