@@ -19,7 +19,7 @@ draft = false
 
 ### ECO101: Principles of Microeconomics
 
-## Winter
+## Winter -- still in progress
 
 ### APS360: Fundamentals of Deep Learning
 
