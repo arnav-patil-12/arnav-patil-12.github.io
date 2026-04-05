@@ -21,7 +21,7 @@
       <link>http://localhost:1313/notes/year-three/</link>
       <pubDate>Tue, 08 Jul 2025 12:23:25 -0400</pubDate>
       <guid>http://localhost:1313/notes/year-three/</guid>
-      <description>Fall ECE331: Analog Electronics Scan pending, coming soon!&#xA;ECE334: Digital Electronics Lecture Notes&#xA;ECE344: Operating Systems Lecture Notes&#xA;ECE552: Computer Architecture Lecture Notes&#xA;ECO101: Principles of Microeconomics Lecture Notes&#xA;Winter &amp;ndash; still in progress APS360: Fundamentals of Deep Learning APS420: Technology, Engineering, and Global Development Lecture + Readings Notes&#xA;ECE302: Probability and Applications Lecture Notes (weeks 1-8)&#xA;ECE342: Computer Hardware ECE472: Engineering Economic Analysis and Entrepreneurship </description>
+      <description>Fall ECE331: Analog Electronics Scan pending, coming soon!&#xA;ECE334: Digital Electronics Lecture Notes&#xA;ECE344: Operating Systems Lecture Notes&#xA;ECE552: Computer Architecture Lecture Notes&#xA;ECO101: Principles of Microeconomics Lecture Notes&#xA;Winter &amp;ndash; still in progress APS360: Fundamentals of Deep Learning APS420: Technology, Engineering, and Global Development ECE302: Probability and Applications Lecture Notes&#xA;ECE342: Computer Hardware ECE472: Engineering Economic Analysis and Entrepreneurship </description>
     </item>
     <item>
       <title>Second Year</title>
@@ -49,7 +49,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 03 Jul 2024 18:39:57 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I&amp;rsquo;m studying Electrical and Computer Engineering at the University of Toronto. My interests lie at the intersection of hardware and software, and I&amp;rsquo;m open to roles in computer architecture and digital design.&#xA;I have experience with FPGA engineering, having written high-speed Verilog firmware to control depth-imaging cameras. Furthermore, I&amp;rsquo;ll be completing my co-op at Marvell Technology as a Digital Design Engineer, where I&amp;rsquo;ll be working on high-speed SerDes IP.</description>
+      <description>I&amp;rsquo;m studying Electrical and Computer Engineering at the University of Toronto. My interests lie at the intersection of hardware and software; I&amp;rsquo;m open to roles in computer architecture and digital design.&#xA;I have experience in FPGA engineering, having written high-speed Verilog firmware for depth-imaging cameras. Furthermore, I&amp;rsquo;ll soon be starting my co-op at Marvell Technology as a Digital Design Engineer, where I&amp;rsquo;ll be working on high-speed SerDes IP!</description>
     </item>
     <item>
       <title>Course Notes</title>

@@ -26,12 +26,10 @@ Scan pending, coming soon!
 ### APS360: Fundamentals of Deep Learning
 
 ### APS420: Technology, Engineering, and Global Development
-[Lecture + Readings Notes](/files/thirdyear/aps420.pdf)
 
 ### ECE302: Probability and Applications
-[Lecture Notes](/files/thirdyear/ece302.pdf) (weeks 1-8)
+[Lecture Notes](/files/thirdyear/ece302.pdf)
 
 ### ECE342: Computer Hardware
 
-### ECE472: Engineering Economic Analysis and Entrepreneurship
- 
+### ECE472: Engineering Economic Analysis and Entrepreneurship 

@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-ca</language>
     <copyright>CHANGE ME</copyright>
-    <lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 13:41:46 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Would Structure the ECE Program</title>
+      <link>http://localhost:1313/posts/ece-revamp/</link>
+      <pubDate>Tue, 10 Mar 2026 13:41:46 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ece-revamp/</guid>
+      <description>Introduction Change is afoot within the ECE department, and I&amp;rsquo;m making this post out of pure interest and because I want to spark student-led discussion (as opposed to &amp;lsquo;students-consulted-as-an-afterthought&amp;rsquo;) on the issue. Keep in mind I am in no way an expert on this topic, merely a student concerned with the upholding a high standard of education and keeping UofT Engineering among the world&amp;rsquo;s top engineering schools.&#xA;Disclaimers This article makes some assumptions (and challenges others) about what engineering education and an &amp;ldquo;Department of Electrical and Computer Engineering&amp;rdquo; should look like.</description>
+    </item>
     <item>
       <title>Second Year Courses &#43; Tips</title>
       <link>http://localhost:1313/posts/second-year/</link>
