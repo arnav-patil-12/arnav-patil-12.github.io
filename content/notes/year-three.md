@@ -31,5 +31,6 @@ Scan pending, coming soon!
 [Lecture Notes](/files/thirdyear/ece302.pdf)
 
 ### ECE342: Computer Hardware
+[Lecture Notes](/files/thirdyear/ece342.pdf) - This course is becoming ECE390 starting next fall.
 
 ### ECE472: Engineering Economic Analysis and Entrepreneurship 
