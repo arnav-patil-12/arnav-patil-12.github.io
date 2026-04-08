@@ -24,6 +24,7 @@ Scan pending, coming soon!
 ## Winter -- still in progress
 
 ### APS360: Fundamentals of Deep Learning
+[Lecture Notes](/files/thirdyear/aps360.pdf)
 
 ### APS420: Technology, Engineering, and Global Development
 

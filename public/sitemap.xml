@@ -5,19 +5,16 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-10T13:41:46-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ece-revamp/</loc>
-    <lastmod>2026-03-10T13:41:46-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-03-10T13:41:46-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/second-year/</loc>
+    <lastmod>2025-07-08T12:41:58-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-10T13:41:46-04:00</lastmod>
+    <lastmod>2025-07-08T12:41:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/untagged/</loc>
-    <lastmod>2026-03-10T13:41:46-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/second-year/</loc>
     <lastmod>2025-07-08T12:41:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/year-three/</loc>
