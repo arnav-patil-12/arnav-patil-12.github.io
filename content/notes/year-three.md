@@ -12,11 +12,15 @@ Scan pending, coming soon!
 ### ECE334: Digital Electronics
 [Lecture Notes](https://drive.google.com/file/d/1HxJ9PHl6FRV1Nx1eo1CPJA5KKxbq96Vl/view?usp=share_link)
 
+[Formula Sheet](/files/thirdyear/ece334formulae.pdf)
+
 ### ECE344: Operating Systems
 [Lecture Notes](/files/thirdyear/ece344.pdf)
 
 ### ECE552: Computer Architecture
 [Lecture Notes](/files/thirdyear/ece552.pdf)
+
+[Formula Sheet](/files/thirdyear/ece552formulae.pdf)
 
 ### ECO101: Principles of Microeconomics
 [Lecture Notes](/files/thirdyear/eco101.pdf)
