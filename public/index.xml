@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-ca</language>
     <copyright>CHANGE ME</copyright>
-    <lastBuildDate>Tue, 08 Jul 2025 12:41:58 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 16:40:30 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Year Courses&#43; Tips</title>
+      <link>http://localhost:1313/posts/third-year/</link>
+      <pubDate>Sat, 09 May 2026 16:40:30 -0400</pubDate>
+      <guid>http://localhost:1313/posts/third-year/</guid>
+      <description>I receive a lot of DMs asking me to give feedback on upper-year ECE courses, so here I&amp;rsquo;ve provided the class average of each course and my best piece of advice for success in the course.&#xA;Fall Semester ECE331: Analog Electronics (B-) Use the textbook and any other online resources religiously because I can guarantee the lectures and tutorials will not be enough to gain a sufficient understanding of the course.</description>
+    </item>
     <item>
       <title>Second Year Courses &#43; Tips</title>
       <link>http://localhost:1313/posts/second-year/</link>
@@ -21,7 +28,7 @@
       <link>http://localhost:1313/notes/year-three/</link>
       <pubDate>Tue, 08 Jul 2025 12:23:25 -0400</pubDate>
       <guid>http://localhost:1313/notes/year-three/</guid>
-      <description>Fall ECE331: Analog Electronics Scan pending, coming soon!&#xA;ECE334: Digital Electronics Lecture Notes&#xA;ECE344: Operating Systems Lecture Notes&#xA;ECE552: Computer Architecture Lecture Notes&#xA;ECO101: Principles of Microeconomics Lecture Notes&#xA;Winter &amp;ndash; still in progress APS360: Fundamentals of Deep Learning Lecture Notes&#xA;APS420: Technology, Engineering, and Global Development ECE302: Probability and Applications Lecture Notes&#xA;ECE342: Computer Hardware Lecture Notes - This course is becoming ECE390 starting next fall.&#xA;ECE472: Engineering Economic Analysis and Entrepreneurship </description>
+      <description>Fall ECE331: Analog Electronics Scan pending, coming soon!&#xA;ECE334: Digital Electronics Lecture Notes&#xA;Formula Sheet&#xA;ECE344: Operating Systems Lecture Notes&#xA;ECE552: Computer Architecture Lecture Notes&#xA;Formula Sheet&#xA;ECO101: Principles of Microeconomics Lecture Notes&#xA;Winter &amp;ndash; still in progress APS360: Fundamentals of Deep Learning Lecture Notes&#xA;APS420: Technology, Engineering, and Global Development ECE302: Probability and Applications Lecture Notes&#xA;ECE342: Computer Hardware Lecture Notes - This course is becoming ECE390 starting next fall.</description>
     </item>
     <item>
       <title>Second Year</title>
