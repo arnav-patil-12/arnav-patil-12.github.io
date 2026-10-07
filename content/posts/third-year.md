@@ -40,7 +40,7 @@ I receive a lot of DMs asking me to give feedback on upper-year ECE courses, so 
 
 ### ECE342: Computer Hardware (B+)
 - **NOTE**: This course will become ECE390 starting the 2026-2027 school year. ECE342 will go back to being a proper computer hardware course with Verilog labs and microprocessor design.
-- Do not take this course (or rather, ECE390). There is nothing taught about embedded systems you cannot learn yourself from  
+- Do not take this course (or rather, ECE390). There is nothing taught about embedded systems you cannot learn yourself from joining a design team or doing self-motivated projects. 
 
 ### ECE472: Engineering Economic Analysis and Entrepreneurship (B+)
 - Practice makes perfect! To add on, the content is this course is important. As a young professional, having a good idea of both engineering and perdonal finance will take you a long long way.
